@@ -1,0 +1,3155 @@
+{
+    "liga": "LaLiga EA Sports",
+    "logo": "/images/laliga.png",
+    "equipos": [
+      {
+        "nombre": "Athletic Club",
+        "escudo": "/images/athletic/athletic.png",
+        "puntos": 68,
+        "partidos_jugados": 38,
+        "victorias": 19,
+        "empates": 11,
+        "derrotas": 8,
+        "goles_a_favor": 61,
+        "goles_en_contra": 37,
+        "diferencia_de_goles": 24,
+        "plantilla": {
+          "entrenador": {
+            "nombre": "Ernesto Valverde",
+            "foto": "/images/athletic/ernesto_valverde.png"
+          },
+          "jugadores": [
+            {
+              "nombre": "Unai Simón",
+              "foto": "/images/athletic/unai_simon.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Julen Agirrezabala",
+              "foto": "/images/athletic/julen_agirrezabala.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Dani Vivian",
+              "foto": "/images/athletic/dani_vivian.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Aitor Paredes",
+              "foto": "/images/athletic/aitor_paredes.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Yeray Álvarez",
+              "foto": "/images/athletic/yeray_alvarez.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Iñigo Lekue",
+              "foto": "/images/athletic/iñigo_lekue.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Yuri Berchiche",
+              "foto": "/images/athletic/yuri_berchiche.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Oscar de Marcos",
+              "foto": "/images/athletic/oscar_marcos.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Imanol García",
+              "foto": "/images/athletic/imanol_garcia.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Mikel Vesga",
+              "foto": "/images/athletic/mikel_vesga.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Ohian Sancet",
+              "foto": "/images/athletic/ohian_sancet.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Dani García",
+              "foto": "/images/athletic/dani_garcia.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Iñigo Ruíz de Galarreta",
+              "foto": "/images/athletic/galarreta.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Ander Herrera",
+              "foto": "/images/athletic/dani_vivian.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Beñat Prados",
+              "foto": "/images/athletic/beñat_prados.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Unai Gómez",
+              "foto": "/images/athletic/unai_gomez.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Alex Berenguer",
+              "foto": "/images/athletic/alex_berenguer.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Iñaki Williams",
+              "foto": "/images/athletic/iñaki_williams.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Iker Muniain",
+              "foto": "/images/athletic/iker_muniain.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Nico Williams",
+              "foto": "/images/athletic/nico_williams.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Gorka Guruzeta",
+              "foto": "/images/athletic/gorka_guruzeta.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Asier Villalibre",
+              "foto": "/images/athletic/asier_villalibre.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Raúl García",
+              "foto": "/images/athletic/raul_garcia.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Adu Ares",
+              "foto": "/images/athletic/adu_ares.png",
+              "posicion": "Delantero"
+            }
+          ]
+        }
+      },
+      {
+        "nombre": "Atlético de Madrid",
+        "escudo": "/images/atletico/atletico.png",
+        "puntos": 76,
+        "partidos_jugados": 38,
+        "victorias": 24,
+        "empates": 4,
+        "derrotas": 10,
+        "goles_a_favor": 70,
+        "goles_en_contra": 43,
+        "diferencia_de_goles": 27,
+        "plantilla": {
+          "entrenador": {
+            "nombre": "Cholo Simeone",
+            "foto": "/images/atletico/cholo.png"
+          },
+          "jugadores": [
+            {
+              "nombre": "Jan Oblak",
+              "foto": "/images/atletico/jan_oblak.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Horatiu Moldvan",
+              "foto": "/images/atletico/horatiu_moldovan.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "José María Giménez",
+              "foto": "/images/atletico/gimenez.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "César Azpilicueta",
+              "foto": "/images/atletico/azpilicueta.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Gabriel Paulista",
+              "foto": "/images/atletico/paulista.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Stefan Savic",
+              "foto": "/images/atletico/savic.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Nahuel Molina",
+              "foto": "/images/atletico/molina.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Mario Hermoso",
+              "foto": "/images/atletico/hermoso.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Reinildo Mandava",
+              "foto": "/images/atletico/reinildo.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Rodrigo de Paul",
+              "foto": "/images/atletico/de_paul.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Jorge Resurrección",
+              "foto": "/images/atletico/koke.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Saúl Ñíguez",
+              "foto": "/images/atletico/saul.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Thomas Lemar",
+              "foto": "/images/atletico/lemar.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Samuel Lino",
+              "foto": "/images/atletico/lino.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Marcos Llorente",
+              "foto": "/images/atletico/llorente.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Rodrigo Riquelme",
+              "foto": "/images/atletico/riquelme.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Arthur Vermeeren",
+              "foto": "/images/atletico/vermeeren.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Axel Witsel",
+              "foto": "/images/atletico/witsel.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Pablo Barrios",
+              "foto": "/images/atletico/barrios.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Antoine Griezmann",
+              "foto": "/images/atletico/griezmann.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Memphis Depay",
+              "foto": "/images/atletico/memphis.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Ángel Correa",
+              "foto": "/images/atletico/correa.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Álvaro Morata",
+              "foto": "/images/atletico/morata.png",
+              "posicion": "Delantero"
+            }
+          ]
+        }
+      },
+      {
+        "nombre": "CA Osasuna",
+        "escudo": "/images/osasuna/osasuna.png",
+        "puntos": 45,
+        "partidos_jugados": 38,
+        "victorias": 12,
+        "empates": 9,
+        "derrotas": 17,
+        "goles_a_favor": 45,
+        "goles_en_contra": 56,
+        "diferencia_de_goles": -11,
+        "plantilla": {
+          "entrenador": {
+            "nombre": "Jagoba Arrasate",
+            "foto": "/images/osasuna/arrasate.png"
+          },
+          "jugadores": [
+            {
+              "nombre": "Aitor Fernández",
+              "foto": "/images/osasuna/aitor_fernandez.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Sergio Herrera",
+              "foto": "/images/osasuna/herrera.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "David García",
+              "foto": "/images/osasuna/david_garcia.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Alejandro Catena",
+              "foto": "/images/osasuna/catena.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Johan Mojíca",
+              "foto": "/images/osasuna/mojica.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Jesús Areso",
+              "foto": "/images/osasuna/areso.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Rubén Peña",
+              "foto": "/images/osasuna/peña.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Jorge Herrando",
+              "foto": "/images/osasuna/herrando.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Unai García",
+              "foto": "/images/osasuna/unai_garcia.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Jon Moncayola",
+              "foto": "/images/osasuna/moncayola.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Aimar Oroz",
+              "foto": "/images/osasuna/oroz.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Lucas Torró",
+              "foto": "/images/osasuna/torro.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Iker Muñoz",
+              "foto": "/images/osasuna/iker_muñoz.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Pablo Ibañez",
+              "foto": "/images/osasuna/ibañez.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Ante Budimir",
+              "foto": "/images/osasuna/budimir.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Moi Gómez",
+              "foto": "/images/osasuna/moi.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Rubén Garcia",
+              "foto": "/images/osasuna/ruben_garcia.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Raúl García",
+              "foto": "/images/osasuna/raul_garcia.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Kike Barja",
+              "foto": "/images/osasuna/barja.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "José Arnaiz",
+              "foto": "/images/osasuna/arnaiz.png",
+              "posicion": "Delantero"
+            }
+          ]
+        }
+      },
+      {
+        "nombre": "Real Madrid",
+        "escudo": "/images/madrid/madrid.png",
+        "puntos": 95,
+        "partidos_jugados": 38,
+        "victorias": 29,
+        "empates": 8,
+        "derrotas": 1,
+        "goles_a_favor": 87,
+        "goles_en_contra": 26,
+        "diferencia_de_goles": 61,
+        "plantilla": {
+          "entrenador": {
+            "nombre": "Carlo Ancelotti",
+            "foto": "/images/madrid/carlo.png"
+          },
+          "jugadores": [
+            {
+              "nombre": "Thibaut Courtois",
+              "foto": "/images/madrid/courtois.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Andriy Lunin",
+              "foto": "/images/madrid/lunin.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Kepa Arrizabalaga",
+              "foto": "/images/madrid/kepa.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Antonio Rüdiger",
+              "foto": "/images/madrid/rudiger.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Dani Carvajal",
+              "foto": "/images/madrid/carvajal.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "David Alaba",
+              "foto": "/images/madrid/alaba.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Nacho Fernández",
+              "foto": "/images/madrid/nacho.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Ferland Mendy",
+              "foto": "/images/madrid/mendy.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Éder Militäo",
+              "foto": "/images/madrid/militao.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Lucas Vázquez",
+              "foto": "/images/madrid/lucas.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Fran García",
+              "foto": "/images/madrid/fran.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Jude Bellingham",
+              "foto": "/images/madrid/jude.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Federico Valverde",
+              "foto": "/images/madrid/valverde.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Toni Kroos",
+              "foto": "/images/madrid/kroos.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Aurélien Tchouaméni",
+              "foto": "/images/madrid/tchouameni.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Eduardo Camavinga",
+              "foto": "/images/madrid/camavinga.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Luka Modric",
+              "foto": "/images/madrid/modric.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Brahim Díaz",
+              "foto": "/images/madrid/brahim.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Arda Güler",
+              "foto": "/images/madrid/guler.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Dani Ceballos",
+              "foto": "/images/madrid/ceballos.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Vinicius Júnior",
+              "foto": "/images/madrid/vini.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Rodrygo Goes",
+              "foto": "/images/madrid/rodrygo.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Joselu Mato",
+              "foto": "/images/madrid/joselu.png",
+              "posicion": "Delantero"
+            }
+          ]
+        }
+      },
+      {
+        "nombre": "FC Barcelona",
+        "escudo": "/images/barcelona/barcelona.png",
+        "puntos": 85,
+        "partidos_jugados": 38,
+        "victorias": 26,
+        "empates": 7,
+        "derrotas": 5,
+        "goles_a_favor": 79,
+        "goles_en_contra": 44,
+        "diferencia_de_goles": 35,
+        "plantilla": {
+          "entrenador": {
+            "nombre": "Xavi Hernández",
+            "foto": "/images/barcelona/xavi.png"
+          },
+          "jugadores": [
+            {
+              "nombre": "Ter Stegen",
+              "foto": "/images/barcelona/ter_stegen.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Iñaki Peña",
+              "foto": "/images/barcelona/iñaki.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Jules Koundé",
+              "foto": "/images/barcelona/kounde.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Joao Cancelo",
+              "foto": "/images/barcelona/cancelo.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Ronald Araujo",
+              "foto": "/images/barcelona/araujo.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Andreas Christensen",
+              "foto": "/images/barcelona/christensen.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Alejandor Balde",
+              "foto": "/images/barcelona/balde.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Iñigo Martinez",
+              "foto": "/images/barcelona/iñigo.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Marcos Alonso",
+              "foto": "/images/barcelona/alonso.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Pau Cubarsí",
+              "foto": "/images/barcelona/cubarsi.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Ilkay Gündogan",
+              "foto": "/images/barcelona/gundogan.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Frankie De Jong",
+              "foto": "/images/barcelona/de_jong.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Pablo Gavira",
+              "foto": "/images/barcelona/gavi.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Pedri González",
+              "foto": "/images/barcelona/pedri.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Fermín López",
+              "foto": "/images/barcelona/fermin.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Sergi Roberto",
+              "foto": "/images/barcelona/roberto.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Oriol Romeu",
+              "foto": "/images/barcelona/romeu.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Joao Félix",
+              "foto": "/images/barcelona/felix.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Robert Lewandowski",
+              "foto": "/images/barcelona/lewa.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Raphinha Dias",
+              "foto": "/images/barcelona/raphinha.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Lamine Yamal",
+              "foto": "/images/barcelona/lamine.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Ferran Torres",
+              "foto": "/images/barcelona/ferran.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Vitor Roque",
+              "foto": "/images/barcelona/vitor.png",
+              "posicion": "Delantero"
+            }
+            
+          ]
+        }
+      },
+      {
+        "nombre": "Sevilla FC",
+        "escudo": "/images/sevilla/sevilla.png",
+        "puntos": 41,
+        "partidos_jugados": 38,
+        "victorias": 10,
+        "empates": 11,
+        "derrotas": 17,
+        "goles_a_favor": 48,
+        "goles_en_contra": 54,
+        "diferencia_de_goles": -6,
+        "plantilla": {
+          "entrenador": {
+            "nombre": "Quique Sánchez Flores",
+            "foto": "/images/sevilla/quique.png"
+          },
+          "jugadores": [
+            {
+              "nombre": "Orjan Nyland",
+              "foto": "/images/sevilla/nyland.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Marko Dmitrovic",
+              "foto": "/images/sevilla/dmitrovic.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Sergio Ramos",
+              "foto": "/images/sevilla/ramos.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Nemanja Gudelj",
+              "foto": "/images/sevilla/gudelj.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Marcos Acuña",
+              "foto": "/images/sevilla/acuña.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Jesús Navas",
+              "foto": "/images/sevilla/navas.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Loïc Badé",
+              "foto": "/images/sevilla/bade.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Adrià Pedrosa",
+              "foto": "/images/sevilla/pedrosa.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Kike Salas",
+              "foto": "/images/sevilla/salas.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Juanlu Sánchez",
+              "foto": "/images/sevilla/juanlu.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Marcos Do Nascimento",
+              "foto": "/images/sevilla/marcao.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Tanguy Nianzou",
+              "foto": "/images/sevilla/nianzou.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Djibril Sow",
+              "foto": "/images/sevilla/sow.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Óliver Torres",
+              "foto": "/images/sevilla/torres.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Boubakary Soumaré",
+              "foto": "/images/sevilla/soumare.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Joan Jordan",
+              "foto": "/images/sevilla/jordan.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Lucien Agoumé",
+              "foto": "/images/sevilla/agoume.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Hannibal Mejbri",
+              "foto": "/images/sevilla/hannibal.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Manu Bueno",
+              "foto": "/images/sevilla/bueno.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Youssef En-Nesyri",
+              "foto": "/images/sevilla/youssef.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Lucas Ocampos",
+              "foto": "/images/sevilla/ocampos.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Suso Fernández",
+              "foto": "/images/sevilla/suso.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Dodi Lukébakio",
+              "foto": "/images/sevilla/lukebakio.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Isaac Romero",
+              "foto": "/images/sevilla/isaac.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Erik Lamela",
+              "foto": "/images/sevilla/lamela.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Rafa Mir",
+              "foto": "/images/sevilla/mir.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Alejo Véliz",
+              "foto": "/images/sevilla/veliz.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Adnan Januzaj",
+              "foto": "/images/sevilla/januzaj.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Mariano Díaz",
+              "foto": "/images/sevilla/mariano.png",
+              "posicion": "Delantero"
+            }
+            
+          ]
+        }
+      },
+      {
+        "nombre": "Real Betis",
+        "escudo": "/images/betis/betis.png",
+        "puntos": 57,
+        "partidos_jugados": 38,
+        "victorias": 14,
+        "empates": 15,
+        "derrotas": 9,
+        "goles_a_favor": 48,
+        "goles_en_contra": 45,
+        "diferencia_de_goles": 3,
+        "plantilla": {
+          "entrenador": {
+            "nombre": "Manuel Pellegrini",
+            "foto": "/images/betis/pellegrini.png"
+          },
+          "jugadores": [
+            {
+              "nombre": "Rui Silva",
+              "foto": "/images/betis/silva.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Claudio Bravo",
+              "foto": "/images/betis/bravo.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Germán Pezzella",
+              "foto": "/images/betis/pezzella.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Marc Bartra",
+              "foto": "/images/betis/bartra.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Juan Miranda",
+              "foto": "/images/betis/miranda.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Abner Vinicius",
+              "foto": "/images/betis/vini.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Youssouf Sabaly",
+              "foto": "/images/betis/sabaly.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Chadi Riad",
+              "foto": "/images/betis/chadi.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Sokratis Papastathoupoulos",
+              "foto": "/images/betis/sokratis.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Héctor Bellerín",
+              "foto": "/images/betis/bellerin.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Isco alarcón",
+              "foto": "/images/betis/isco.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Guido Rodríguez",
+              "foto": "/images/betis/guido.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Pablo Fornals",
+              "foto": "/images/betis/fornals.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Johnny Cardoso",
+              "foto": "/images/betis/johnny.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "William Carvalho",
+              "foto": "/images/betis/william.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Marc Roca",
+              "foto": "/images/betis/roca.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Nabil Fekir",
+              "foto": "/images/betis/fekir.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Rodrido Sánchez",
+              "foto": "/images/betis/rodri.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Sergi Altimira",
+              "foto": "/images/betis/altimira.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Ayoze Perez",
+              "foto": "/images/betis/ayoze.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Willian José",
+              "foto": "/images/betis/willian.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Aitor Ruibal",
+              "foto": "/images/betis/aitor.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Chimy Ávila",
+              "foto": "/images/betis/chimy.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Abdessmad Ezzalzouli",
+              "foto": "/images/betis/abde.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Assane Diao",
+              "foto": "/images/betis/assane.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Cédric Bakambu",
+              "foto": "/images/betis/bakambu.png",
+              "posicion": "Delantero"
+            }            
+          ]
+        }
+      },
+      {
+        "nombre": "Real Sociedad",
+        "escudo": "/images/sociedad/sociedad.png",
+        "puntos": 60,
+        "partidos_jugados": 38,
+        "victorias": 16,
+        "empates": 12,
+        "derrotas": 10,
+        "goles_a_favor": 51,
+        "goles_en_contra": 39,
+        "diferencia_de_goles": 12,
+        "plantilla": {
+          "entrenador": {
+            "nombre": "Immanol Alguacil",
+            "foto": "/images/sociedad/immanol.png"
+          },
+          "jugadores": [
+            {
+              "nombre": "Alex Remiro",
+              "foto": "/images/sociedad/remiro.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Unai Marrero",
+              "foto": "/images/sociedad/marrero.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Robin Le Normand",
+              "foto": "/images/sociedad/normand.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Hamari Traoré",
+              "foto": "/images/sociedad/traore.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Igor Zubeldia",
+              "foto": "/images/sociedad/zubeldia.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Aihen Muñoz",
+              "foto": "/images/sociedad/aihen.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Kieran Tierney",
+              "foto": "/images/sociedad/tierney.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Javi Galán",
+              "foto": "/images/sociedad/galan.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Jon Pacheco",
+              "foto": "/images/sociedad/pacheco.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Aritz Elustondo",
+              "foto": "/images/sociedad/elustondo.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Jon Aramburu",
+              "foto": "/images/sociedad/aramburu.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Álvaro Odriozola",
+              "foto": "/images/sociedad/odriozola.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Martín Zubimendi",
+              "foto": "/images/sociedad/zubimendi.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Mikel Merino",
+              "foto": "/images/sociedad/merino.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Brais Méndez",
+              "foto": "/images/sociedad/brais.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Arsen Zakharyan",
+              "foto": "/images/sociedad/arsen.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Beñat Turrientes",
+              "foto": "/images/sociedad/turrientes.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Jon Olasagasti",
+              "foto": "/images/sociedad/olasagasti.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Urko González",
+              "foto": "/images/sociedad/urko.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Mikel Oyarzabal",
+              "foto": "/images/sociedad/oyarzabal.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Takefusa Kubo",
+              "foto": "/images/sociedad/kubo.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Sherado Becker",
+              "foto": "/images/sociedad/becker.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "André Silva",
+              "foto": "/images/sociedad/silva.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Ander Barrenetxea",
+              "foto": "/images/sociedad/ander.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Umar Sadiq",
+              "foto": "/images/sociedad/sadiq.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Carlos Fernández",
+              "foto": "/images/sociedad/carlos.png",
+              "posicion": "Delantero"
+            }
+            
+          ]
+        }
+      },
+      {
+        "nombre": "RCD Mallorca",
+        "escudo": "/images/mallorca/mallorca.png",
+        "puntos": 40,
+        "partidos_jugados": 38,
+        "victorias": 8,
+        "empates": 16,
+        "derrotas": 14,
+        "goles_a_favor": 33,
+        "goles_en_contra": 44,
+        "diferencia_de_goles": -11,
+        "plantilla": {
+          "entrenador": {
+            "nombre": "Javier Aguirre",
+            "foto": "/images/mallorca/aguirre.png"
+          },
+          "jugadores": [
+            {
+              "nombre": "Predrag Rajkovic",
+              "foto": "/images/mallorca/rajkovic.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Dominik Greif",
+              "foto": "/images/mallorca/greif.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Iván Cuellar",
+              "foto": "/images/mallorca/cuellar.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Giovanni Gonzalez",
+              "foto": "/images/mallorca/gonzalez.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Antonio Raillo",
+              "foto": "/images/mallorca/raillo.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Martin Valjent",
+              "foto": "/images/mallorca/valjent.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "José Manuel Copete",
+              "foto": "/images/mallorca/copete.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Matija Nastasic",
+              "foto": "/images/mallorca/nastasic.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Pablo Maffeo",
+              "foto": "/images/mallorca/maffeo.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Jaume Costa",
+              "foto": "/images/mallorca/jaume.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Toni Lato",
+              "foto": "/images/mallorca/lato.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Nacho Vidal",
+              "foto": "/images/mallorca/vidal.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Van Der Heyden",
+              "foto": "/images/mallorca/heyden.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Dani Rodríguez",
+              "foto": "/images/mallorca/dani.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Sergi Darder",
+              "foto": "/images/mallorca/darder.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Samú Costa",
+              "foto": "/images/mallorca/costa.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Antonio Sánchez",
+              "foto": "/images/mallorca/sanchez.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Omar Mascarell",
+              "foto": "/images/mallorca/mascarell.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Manu Morlanes",
+              "foto": "/images/mallorca/morlanes.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Vedat Muriqi",
+              "foto": "/images/mallorca/muriqi.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Cyle Larin",
+              "foto": "/images/mallorca/larin.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Abdón Prats",
+              "foto": "/images/mallorca/abdon.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Nemanja Radonjic",
+              "foto": "/images/mallorca/radonjic.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Javi Llabrés",
+              "foto": "/images/mallorca/llabres.png",
+              "posicion": "Delantero"
+            }
+            
+          ]
+        }
+      },
+      {
+        "nombre": "Valencia CF",
+        "escudo": "/images/valencia/valencia.png",
+        "puntos": 49,
+        "partidos_jugados": 38,
+        "victorias": 13,
+        "empates": 10,
+        "derrotas": 15,
+        "goles_a_favor": 40,
+        "goles_en_contra": 45,
+        "diferencia_de_goles": -5,
+        "plantilla": {
+          "entrenador": {
+            "nombre": "Rubén Baraja",
+            "foto": "/images/valencia/baraja.png"
+          },
+          "jugadores": [
+            {
+              "nombre": "Giorgi Mamardashvili",
+              "foto": "/images/valencia/mamardashvili.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Jaume Doménech",
+              "foto": "/images/valencia/jaume.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "José Gayà",
+              "foto": "/images/valencia/gaya.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Mouctar Diakhaby",
+              "foto": "/images/valencia/diakhaby.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Cristhian Mosquera",
+              "foto": "/images/valencia/mosquera.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Dimitri Foulquier",
+              "foto": "/images/valencia/foulquier.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Thierry Correia",
+              "foto": "/images/valencia/correia.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Cenk Özkacar",
+              "foto": "/images/valencia/cenk.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Jesús Vázquez",
+              "foto": "/images/valencia/jesus_vazquez.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Yarek Gasiorowski",
+              "foto": "/images/valencia/yarek.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "José Luis García",
+              "foto": "/images/valencia/pepelu.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Javi Guerra",
+              "foto": "/images/valencia/guerra.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "André Almeida",
+              "foto": "/images/valencia/almeida.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Hugo Guillamón",
+              "foto": "/images/valencia/guillamon.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Selim Amallah",
+              "foto": "/images/valencia/amallah.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Hugo Duro",
+              "foto": "/images/valencia/duro.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Diego López",
+              "foto": "/images/valencia/lopez.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Fran Pérez",
+              "foto": "/images/valencia/fran.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Roman Yaremchuk",
+              "foto": "/images/valencia/yaremchuk.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Sergi Canós",
+              "foto": "/images/valencia/canos.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Peter Federico",
+              "foto": "/images/valencia/peter.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Alberto Marí",
+              "foto": "/images/valencia/mari.png",
+              "posicion": "Delantero"
+            }
+            
+          ]
+        }
+      },
+      {
+        "nombre": "Deportivo Alavés",
+        "escudo": "/images/alaves/alaves.png",
+        "puntos": 46,
+        "partidos_jugados": 38,
+        "victorias": 12,
+        "empates": 10,
+        "derrotas": 16,
+        "goles_a_favor": 36,
+        "goles_en_contra": 46,
+        "diferencia_de_goles": -10,
+        "plantilla": {
+          "entrenador": {
+            "nombre": "Luis García",
+            "foto": "/images/alaves/garcia.png"
+          },
+          "jugadores": [
+            {
+              "nombre": "Antonio Sivera",
+              "foto": "/images/alaves/sivera.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Jesús Owono",
+              "foto": "/images/alaves/owono.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Andoni Gorosabel",
+              "foto": "/images/alaves/andoni.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Rubén Duarte",
+              "foto": "/images/alaves/duarte.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Javi López",
+              "foto": "/images/alaves/lopez.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Nahuel Tenaglia",
+              "foto": "/images/alaves/tenaglia.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Aleksander Sedlar",
+              "foto": "/images/alaves/sedlar.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Abdelkabir Abqar",
+              "foto": "/images/alaves/abqar.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Rafa Marín",
+              "foto": "/images/alaves/marin.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Jon Guridi",
+              "foto": "/images/alaves/guridi.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Antonio Blanco",
+              "foto": "/images/alaves/blanco.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Ander Guevara",
+              "foto": "/images/alaves/guevara.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Carlos Benavidez",
+              "foto": "/images/alaves/benavidez.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Ianis Hagi",
+              "foto": "/images/alaves/hagi.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Luis Rioja",
+              "foto": "/images/alaves/rioja.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Carlos Vicente",
+              "foto": "/images/alaves/vicente.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Kike García",
+              "foto": "/images/alaves/kike.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Samuel Omorodion",
+              "foto": "/images/alaves/omorodion.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Giuliano Simeone",
+              "foto": "/images/alaves/simeone.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Álex Sola",
+              "foto": "/images/alaves/sola.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Abderrahman Rebbach",
+              "foto": "/images/alaves/rebbach.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Xeber Alkain",
+              "foto": "/images/alaves/alkain.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Joaquín Panichelli",
+              "foto": "/images/alaves/panichelli.png",
+              "posicion": "Delantero"
+            }
+            
+          ]
+        }
+      },
+      {
+        "nombre": "Villarreal CF",
+        "escudo": "/images/villarreal/villarreal.png",
+        "puntos": 53,
+        "partidos_jugados": 38,
+        "victorias": 14,
+        "empates": 11,
+        "derrotas": 13,
+        "goles_a_favor": 65,
+        "goles_en_contra": 65,
+        "diferencia_de_goles": 0,
+        "plantilla": {
+          "entrenador": {
+            "nombre": "Marcelino García",
+            "foto": "/images/villarreal/marcelino.png"
+          },
+          "jugadores": [
+            {
+              "nombre": "Filip Jörgensen",
+              "foto": "/images/villarreal/jorgensen.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Pepe Reina",
+              "foto": "/images/villarreal/reina.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Raúl Albiol",
+              "foto": "/images/villarreal/albiol.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Juan Foyth",
+              "foto": "/images/villarreal/foyth.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Jorge Cuenca",
+              "foto": "/images/villarreal/cuenca.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Aïssa Mandi",
+              "foto": "/images/villarreal/mandi.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Alfonso Pedraza",
+              "foto": "/images/villarreal/pedraza.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Yerson Mosquera",
+              "foto": "/images/villarreal/mosquera.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Alberto Moreno",
+              "foto": "/images/villarreal/moreno.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Kiko Femenía",
+              "foto": "/images/villarreal/femenia.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Adrià Altimira",
+              "foto": "/images/villarreal/altimira.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Eric Bailly",
+              "foto": "/images/villarreal/bailly.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Dani Parejo",
+              "foto": "/images/villarreal/parejo.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Alex Baena",
+              "foto": "/images/villarreal/baena.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Santi Comesaña",
+              "foto": "/images/villarreal/comesaña.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Éienne Capoue",
+              "foto": "/images/villarreal/capoue.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Francis Coquelin",
+              "foto": "/images/villarreal/coquelin.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Denis Suárez",
+              "foto": "/images/villarreal/denis.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Manu Trigueros",
+              "foto": "/images/villarreal/manu.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Ramón Terrats",
+              "foto": "/images/villarreal/terrats.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Alexander Sorloth",
+              "foto": "/images/villarreal/sorloth.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Gerard Moreno",
+              "foto": "/images/villarreal/gerard.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Yéremy Pino",
+              "foto": "/images/villarreal/pino.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Gonçalo Guedes",
+              "foto": "/images/villarreal/guedes.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Ilias Akhomach",
+              "foto": "/images/villarreal/ilias.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "José Luis Morales",
+              "foto": "/images/villarreal/morales.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Bertrand Traoré",
+              "foto": "/images/villarreal/traore.png",
+              "posicion": "Delantero"
+            }
+            
+          ]
+        }
+      },
+      {
+        "nombre": "RC Celta de Vigo",
+        "escudo": "/images/celta/celta.png",
+        "puntos": 41,
+        "partidos_jugados": 38,
+        "victorias": 10,
+        "empates": 11,
+        "derrotas": 17,
+        "goles_a_favor": 46,
+        "goles_en_contra": 57,
+        "diferencia_de_goles": -11,
+        "plantilla": {
+          "entrenador": {
+            "nombre": "Claudio Giráldez",
+            "foto": "/images/celta/giraldez.png"
+          },
+          "jugadores": [
+            {
+              "nombre": "Vicente Guaita",
+              "foto": "/images/celta/guaita.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Iván Villar",
+              "foto": "/images/celta/villar.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Óscar Mingueza",
+              "foto": "/images/celta/mingueza.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Unai Nuñez",
+              "foto": "/images/celta/nuñez.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Carl Starfelt",
+              "foto": "/images/celta/starfelt.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Joseph Aidoo",
+              "foto": "/images/celta/aidoo.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Manu Sánchez",
+              "foto": "/images/celta/manu.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Carlos Domínguez",
+              "foto": "/images/celta/dominguez.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Mihalo Ristic",
+              "foto": "/images/celta/ristic.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Javier Manquillo",
+              "foto": "/images/celta/manquillo.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Kevin Vázquez",
+              "foto": "/images/celta/vazquez.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Fran Beltrán",
+              "foto": "/images/celta/beltran.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Lucas De La Torre",
+              "foto": "/images/celta/torre.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Renato Tapia",
+              "foto": "/images/celta/tapia.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Williot Swedberg",
+              "foto": "/images/celta/swedberg.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Jailson Marques",
+              "foto": "/images/celta/marques.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Carlos Dotor",
+              "foto": "/images/celta/dotor.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Hugo Sotelo",
+              "foto": "/images/celta/sotelo.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Jorgen Larsen",
+              "foto": "/images/celta/larsen.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Iago Aspas",
+              "foto": "/images/celta/aspas.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Jonathan Bamba",
+              "foto": "/images/celta/bamba.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Anastasios Douvikas",
+              "foto": "/images/celta/douvikas.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Hugo Álvarez",
+              "foto": "/images/celta/alvarez.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Tadeo Allende",
+              "foto": "/images/celta/allende.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Carles Pérez",
+              "foto": "/images/celta/perez.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Franco Cervi",
+              "foto": "/images/celta/cervi.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Miguel Rodríguez",
+              "foto": "/images/celta/miguel.png",
+              "posicion": "Delantero"
+            }
+            
+          ]
+        }
+      },
+      {
+        "nombre": "Rayo Vallecano",
+        "escudo": "/images/rayo/rayo.png",
+        "puntos": 38,
+        "partidos_jugados": 38,
+        "victorias": 8,
+        "empates": 14,
+        "derrotas": 16,
+        "goles_a_favor": 29,
+        "goles_en_contra": 48,
+        "diferencia_de_goles": -19,
+        "plantilla": {
+          "entrenador": {
+            "nombre": "Iñigo Pérez",
+            "foto": "/images/rayo/iñigo.png"
+          },
+          "jugadores": [
+            {
+              "nombre": "Stole Dimitrievski",
+              "foto": "/images/rayo/dimitri.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Dani Cárdenas",
+              "foto": "/images/rayo/cardenas.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Florian Lejeune",
+              "foto": "/images/rayo/lejeune.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Iván Balliu",
+              "foto": "/images/rayo/balliu.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Pacha Espino",
+              "foto": "/images/rayo/pacha.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Aridane Hernández",
+              "foto": "/images/rayo/aridane.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Abdul Mumin",
+              "foto": "/images/rayo/abdul.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Pep Chavarría",
+              "foto": "/images/rayo/pep.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Andrei Ratiu",
+              "foto": "/images/rayo/ratiu.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Martín Pascual",
+              "foto": "/images/rayo/pascual.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Óscar Valentín",
+              "foto": "/images/rayo/valentin.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Unai López",
+              "foto": "/images/rayo/unai.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Óscar Trejo",
+              "foto": "/images/rayo/trejo.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Pathé Ciss",
+              "foto": "/images/rayo/ciss.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Kike Pérez",
+              "foto": "/images/rayo/kike.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Miguel Crespo",
+              "foto": "/images/rayo/crespo.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Randy Nteka",
+              "foto": "/images/rayo/nteka.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "José Ángel Pozo",
+              "foto": "/images/rayo/pozo.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Isi Palazón",
+              "foto": "/images/rayo/isi.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Álvaro García",
+              "foto": "/images/rayo/alvaro.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Sergio Camello",
+              "foto": "/images/rayo/camello.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Jorge De Frutos",
+              "foto": "/images/rayo/frutos.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Raúl De Tomás",
+              "foto": "/images/rayo/rdt.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Bebé",
+              "foto": "/images/rayo/bebe.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Radamel Falcao",
+              "foto": "/images/rayo/falcao.png",
+              "posicion": "Delantero"
+            }
+            
+          ]
+        }
+      },
+      {
+        "nombre": "Girona FC",
+        "escudo": "/images/girona/girona.png",
+        "puntos": 81,
+        "partidos_jugados": 38,
+        "victorias": 25,
+        "empates": 6,
+        "derrotas": 7,
+        "goles_a_favor": 85,
+        "goles_en_contra": 46,
+        "diferencia_de_goles": 39,
+        "plantilla": {
+          "entrenador": {
+            "nombre": "Miguel Angel Sánchez",
+            "foto": "/images/girona/michel.png"
+          },
+          "jugadores": [
+            {
+              "nombre": "Pablo Gazzaniga",
+              "foto": "/images/girona/gazzaniga.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Juan Carlos",
+              "foto": "/images/girona/carlos.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Daley Blind",
+              "foto": "/images/girona/blind.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Miguel Gutiérrez",
+              "foto": "/images/girona/miguel.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Eric García",
+              "foto": "/images/girona/eric.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "David López",
+              "foto": "/images/girona/david.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Yan Couto",
+              "foto": "/images/girona/couto.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Arnau Martínez",
+              "foto": "/images/girona/arnau.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Juan Pedro Ramírez",
+              "foto": "/images/girona/juanpe.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Aleix García",
+              "foto": "/images/girona/aleix.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Yangel Herrera",
+              "foto": "/images/girona/yangel.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Iván Martín",
+              "foto": "/images/girona/ivan.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Pablo Torre",
+              "foto": "/images/girona/torre.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Borja García",
+              "foto": "/images/girona/borja.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Jhon Solis",
+              "foto": "/images/girona/solis.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Viktor Tsygankov",
+              "foto": "/images/girona/tsygankov.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Artem Dovbyk",
+              "foto": "/images/girona/dovbyk.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Sávio Moreira",
+              "foto": "/images/girona/savio.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Cristian Portugués",
+              "foto": "/images/girona/portu.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Cristhian Stuani",
+              "foto": "/images/girona/stuani.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Toni Villa",
+              "foto": "/images/girona/toni.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Valery Fernández",
+              "foto": "/images/girona/valery.png",
+              "posicion": "Delantero"
+            }
+            
+          ]
+        }
+      },
+      {
+        "nombre": "UD Las Palmas",
+        "escudo": "/images/palmas/palmas.png",
+        "puntos": 40,
+        "partidos_jugados": 38,
+        "victorias": 10,
+        "empates": 10,
+        "derrotas": 18,
+        "goles_a_favor": 33,
+        "goles_en_contra": 47,
+        "diferencia_de_goles": -14,
+        "plantilla": {
+          "entrenador": {
+            "nombre": "García Pimienta",
+            "foto": "/images/palmas/pimienta.png"
+          },
+          "jugadores": [
+            {
+              "nombre": "Álvaro Valles",
+              "foto": "/images/palmas/valles.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Aarón Escandell",
+              "foto": "/images/palmas/escandell.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Sergi Cardona",
+              "foto": "/images/palmas/cardona.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Mika Mármol",
+              "foto": "/images/palmas/marmol.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Saúl Coco",
+              "foto": "/images/palmas/coco.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Álex Suárez",
+              "foto": "/images/palmas/suarez.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Julián Araujo",
+              "foto": "/images/palmas/araujo.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Eric Curbelo",
+              "foto": "/images/palmas/curbelo.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Álvaro Lemos",
+              "foto": "/images/palmas/lemos.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Daley Sinkgraven",
+              "foto": "/images/palmas/sinkgraven.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Kirian Rodríguez",
+              "foto": "/images/palmas/kirian.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Javi Muñoz",
+              "foto": "/images/palmas/muñoz.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Alberto Moleiro",
+              "foto": "/images/palmas/moleiro.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Enzo Loiodice",
+              "foto": "/images/palmas/enzo.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Maximo Perrone",
+              "foto": "/images/palmas/perrone.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "José Campaña",
+              "foto": "/images/palmas/campaña.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Nuke Mfulu",
+              "foto": "/images/palmas/nuke.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Fabio González",
+              "foto": "/images/palmas/fabio.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Munir El Haddadi",
+              "foto": "/images/palmas/munir.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Sandro Ramírez",
+              "foto": "/images/palmas/sandro.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Marvin Park",
+              "foto": "/images/palmas/park.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Sory Kaba",
+              "foto": "/images/palmas/kaba.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Marc Cardona",
+              "foto": "/images/palmas/marc_cardona.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Francisco Jesús Crespo",
+              "foto": "/images/palmas/crespo.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Cristian Herrera",
+              "foto": "/images/palmas/herrera.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Benito Ramírez",
+              "foto": "/images/palmas/benito.png",
+              "posicion": "Delantero"
+            }
+            
+          ]
+        }
+      },
+      {
+        "nombre": "Getafe FC",
+        "escudo": "/images/getafe/getafe.png",
+        "puntos": 43,
+        "partidos_jugados": 38,
+        "victorias": 10,
+        "empates": 13,
+        "derrotas": 15,
+        "goles_a_favor": 42,
+        "goles_en_contra": 54,
+        "diferencia_de_goles": -12,
+        "plantilla": {
+          "entrenador": {
+            "nombre": "José Bordalás",
+            "foto": "/images/getafe/bordalas.png"
+          },
+          "jugadores": [
+            {
+              "nombre": "David Soria",
+              "foto": "/images/getafe/soria.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Daniel Fuzato",
+              "foto": "/images/getafe/fuzato.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Diego Rico",
+              "foto": "/images/getafe/rico.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Dakonam Djené",
+              "foto": "/images/getafe/djene.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Omar Alderete",
+              "foto": "/images/getafe/alderete.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Gastón Álvarez",
+              "foto": "/images/getafe/gaston.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Juan Iglesias",
+              "foto": "/images/getafe/iglesias.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Domingos Duarte",
+              "foto": "/images/getafe/duarte.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "José Ángel Carmona",
+              "foto": "/images/getafe/carmona.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Fabrizio Angileri",
+              "foto": "/images/getafe/angileri.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Nemanja Maksimović",
+              "foto": "/images/getafe/maksimovic.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Luis Milla",
+              "foto": "/images/getafe/milla.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Mauro Arambarri",
+              "foto": "/images/getafe/arambarri.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Óscar Rodríguez",
+              "foto": "/images/getafe/oscar.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Carles Aleña",
+              "foto": "/images/getafe/aleña.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Ilaix Moriba",
+              "foto": "/images/getafe/ilaix.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Yellu Santiago",
+              "foto": "/images/getafe/yellu.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Borja Mayoral",
+              "foto": "/images/getafe/borja.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Mason Greenwood",
+              "foto": "/images/getafe/greenwood.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Jaime Mata",
+              "foto": "/images/getafe/mata.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Juan Miguel Latasa",
+              "foto": "/images/getafe/latasa.png",
+              "posicion": "Delantero"
+            }
+
+          ]
+        }
+      },
+      {
+        "nombre": "UD Almeria",
+        "escudo": "/images/almeria/almeria.png",
+        "puntos": 21,
+        "partidos_jugados": 38,
+        "victorias": 3,
+        "empates": 12,
+        "derrotas": 23,
+        "goles_a_favor": 43,
+        "goles_en_contra": 75,
+        "diferencia_de_goles": -32,
+        "plantilla": {
+          "entrenador": {
+            "nombre": "Pepe Mel",
+            "foto": "/images/almeria/mel.png"
+          },
+          "jugadores": [
+            {
+              "nombre": "Luis Manuel Maximiano",
+              "foto": "/images/almeria/maximiano.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Fernando Martínez",
+              "foto": "/images/almeria/martinez.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Alejandro Pozo",
+              "foto": "/images/almeria/pozo.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Marc Pubill",
+              "foto": "/images/almeria/pubill.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Edgar González",
+              "foto": "/images/almeria/edgar.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Juan Brandáriz",
+              "foto": "/images/almeria/brandariz.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "César Montes",
+              "foto": "/images/almeria/montes.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Alex Centelles",
+              "foto": "/images/almeria/centelles.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Bruno Langa",
+              "foto": "/images/almeria/langa.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Aleksandar Radovanović",
+              "foto": "/images/almeria/radovanović.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Iddrisu Baba",
+              "foto": "/images/almeria/baba.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Lucas Robertone",
+              "foto": "/images/almeria/robertone.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Dion Lopy",
+              "foto": "/images/almeria/lopy.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Jonathan Viera",
+              "foto": "/images/almeria/viera.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Gonzalo Melero",
+              "foto": "/images/almeria/melero.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Largie Ramazani",
+              "foto": "/images/almeria/ramazani.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Adrián Embarba",
+              "foto": "/images/almeria/embarba.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Leo Baptistao",
+              "foto": "/images/almeria/leo.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Sergio Arribas",
+              "foto": "/images/almeria/arribas.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Luis Suárez",
+              "foto": "/images/almeria/suarez.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Ibrahima Koné",
+              "foto": "/images/almeria/kone.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Marko Milovanovic",
+              "foto": "/images/almeria/marko.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Luka Romero",
+              "foto": "/images/almeria/romero.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Choco Lozano",
+              "foto": "/images/almeria/choco.png",
+              "posicion": "Delantero"
+            }
+
+          ]
+        }
+      },
+      {
+        "nombre": "Cádiz CF",
+        "escudo": "/images/cadiz/cadiz.png",
+        "puntos": 33,
+        "partidos_jugados": 38,
+        "victorias": 6,
+        "empates": 15,
+        "derrotas": 17,
+        "goles_a_favor": 26,
+        "goles_en_contra": 55,
+        "diferencia_de_goles": -29,
+        "plantilla": {
+          "entrenador": {
+            "nombre": "Mauricio Pellegrino",
+            "foto": "/images/cadiz/pellegrino.png"
+          },
+          "jugadores": [
+            {
+              "nombre": "Conan Ledesma",
+              "foto": "/images/cadiz/ledesma.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "David Gil",
+              "foto": "/images/cadiz/gil.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Luis Hernández",
+              "foto": "/images/cadiz/luis.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Iza Carcelén",
+              "foto": "/images/cadiz/iza.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Javi Hernández",
+              "foto": "/images/cadiz/javi.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Rafael Giménez",
+              "foto": "/images/cadiz/fali.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Victor Chust",
+              "foto": "/images/cadiz/chust.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Aiham Ousou",
+              "foto": "/images/cadiz/ousou.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Lucas Pires",
+              "foto": "/images/cadiz/pires.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Joseba Zaldua",
+              "foto": "/images/cadiz/zaldua.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Jorge Meré",
+              "foto": "/images/cadiz/mere.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Momo Mbaye",
+              "foto": "/images/cadiz/mbaye.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Rubén Alcaraz",
+              "foto": "/images/cadiz/alcaraz.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Robert Navarro",
+              "foto": "/images/cadiz/navarro.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Gonzalo Escalante",
+              "foto": "/images/cadiz/escalante.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Álex Fernández",
+              "foto": "/images/cadiz/alex.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Rominigue Kouamé",
+              "foto": "/images/cadiz/kouame.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Fede San Emeterio",
+              "foto": "/images/cadiz/fede.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Diadie Samassekou",
+              "foto": "/images/cadiz/samassekou.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "José Mari",
+              "foto": "/images/cadiz/mari.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Chris Ramos",
+              "foto": "/images/cadiz/ramos.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Rubén Sobrino",
+              "foto": "/images/cadiz/sobrino.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Juan Miguel Jiménez",
+              "foto": "/images/cadiz/juanmi.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Roger Martí",
+              "foto": "/images/cadiz/marti.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Darwin Machís",
+              "foto": "/images/cadiz/machis.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Maxi Gómez",
+              "foto": "/images/cadiz/maxi.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Iván Alejo",
+              "foto": "/images/cadiz/alejo.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Sergi Guardiola",
+              "foto": "/images/cadiz/guardiola.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Brian Ocampo",
+              "foto": "/images/cadiz/ocampo.png",
+              "posicion": "Delantero"
+            }
+            
+          ]
+        }
+      },{
+        "nombre": "Granada CF",
+        "escudo": "/images/granada/granada.png",
+        "puntos": 21,
+        "partidos_jugados": 38,
+        "victorias": 4,
+        "empates": 9,
+        "derrotas": 25,
+        "goles_a_favor": 38,
+        "goles_en_contra": 79,
+        "diferencia_de_goles": -41,
+        "plantilla": {
+          "entrenador": {
+            "nombre": "José Ramón Sandoval",
+            "foto": "/images/granada/sandoval.png"
+          },
+          "jugadores": [
+            {
+              "nombre": "Augusto Batalla",
+              "foto": "/images/granada/batalla.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Raúl Fernández",
+              "foto": "/images/granada/fernandez.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Marc Martínez",
+              "foto": "/images/granada/martinez.png",
+              "posicion": "Portero"
+            },
+            {
+              "nombre": "Bruno Méndez",
+              "foto": "/images/granada/mendez.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Ignasi Miquel",
+              "foto": "/images/granada/miquel.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Jesús Vallejo",
+              "foto": "/images/granada/vallejo.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Carlos Neva",
+              "foto": "/images/granada/neva.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Ricard Sánchez",
+              "foto": "/images/granada/ricard.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Miguel Rubio",
+              "foto": "/images/granada/rubio.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Kamil Piatkowski",
+              "foto": "/images/granada/piatkowski.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Christ-Emmanuel Maouassa",
+              "foto": "/images/granada/maouassa.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Víctor Díaz",
+              "foto": "/images/granada/diaz.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Raúl Torrente",
+              "foto": "/images/granada/torrente.png",
+              "posicion": "Defensa"
+            },
+            {
+              "nombre": "Gerard Gumbau",
+              "foto": "/images/granada/gumbau.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Sergio Ruiz",
+              "foto": "/images/granada/ruiz.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Martin Hongla",
+              "foto": "/images/granada/hongla.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Gonzalo Villar",
+              "foto": "/images/granada/villar.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Óscar Melendo",
+              "foto": "/images/granada/melendo.png",
+              "posicion": "Centrocampista"
+            },
+            {
+              "nombre": "Myrto Uzuni",
+              "foto": "/images/granada/uzuni.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Lucas Boyé",
+              "foto": "/images/granada/boye.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Facundo Pellistri",
+              "foto": "/images/granada/pellistri.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Kamil Jóźwiak",
+              "foto": "/images/granada/jóźwiak.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Matías Arezo",
+              "foto": "/images/granada/arezo.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "José Callejón",
+              "foto": "/images/granada/callejon.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Antonio Puertas",
+              "foto": "/images/granada/puertas.png",
+              "posicion": "Delantero"
+            },
+            {
+              "nombre": "Theo Corbeanu",
+              "foto": "/images/granada/corbeanu.png",
+              "posicion": "Delantero"
+            }
+            
+          ]
+        }
+      }
+    ],
+    "goleadores": [
+      {
+        "nombre": "Artem Dovbyk",
+        "foto": "/images/girona/dovbyk.png",
+        "goles": 24,
+        "equipo": "Girona FC",
+        "escudo": "/images/girona/girona.png"        
+      },
+      {
+        "nombre": "Alexander Sorloth",
+        "foto": "/images/villarreal/sorloth.png",
+        "goles": 23,
+        "equipo": "Villarreal CF",
+        "escudo": "/images/villarreal/villarreal.png"
+      },
+      {
+        "nombre": "Jude Bellingham",
+        "foto": "/images/madrid/jude.png",
+        "goles": 19,
+        "equipo": "FC Barcelona",
+        "escudo": "/images/barcelona/barcelona.png"
+      },
+      {
+        "nombre": "Robert Lewandowski",
+        "foto": "/images/barcelona/lewa.png",
+        "goles": 19,
+        "equipo": "FC Barcelona",
+        "escudo": "/images/barcelona/barcelona.png"
+      },
+      {
+        "nombre": "Ante Budimir",
+        "foto": "/images/osasuna/budimir.png",
+        "goles": 17,
+        "equipo": "CA Osasuna",
+        "escudo": "/images/osasuna/osasuna.png"
+      },
+      {
+        "nombre": "Youssef En-Nesyri",
+        "foto": "/images/sevilla/youssef.png",
+        "goles": 16,
+        "equipo": "Sevilla FC",
+        "escudo": "/images/sevilla/sevilla.png"
+      },
+      {
+        "nombre": "Antoine Griezmann",
+        "foto": "/images/atletico/griezmann.png",
+        "goles": 16,
+        "equipo": "Atlético de Madrid",
+        "escudo": "/images/atletico/atletico.png"
+      },
+      {
+        "nombre": "Vinicius Júnior",
+        "foto": "/images/madrid/vini.png",
+        "goles": 15,
+        "equipo": "Real Madrid",
+        "escudo": "/images/madrid/madrid.png"
+      },
+      {
+        "nombre": "Borja Mayoral",
+        "foto": "/images/getafe/borja.png",
+        "goles": 15,
+        "equipo": "Getafe FC",
+        "escudo": "/images/getafe/getafe.png"
+      },
+      {
+        "nombre": "Álvaro Morata",
+        "foto": "/images/atletico/morata.png",
+        "goles": 15,
+        "equipo": "Atlético de Madrid",
+        "escudo": "/images/atletico/atletico.png"
+      },
+      {
+        "nombre": "Gorka Guruzeta",
+        "foto": "/images/athletic/gorka_guruzeta.png",
+        "goles": 14,
+        "equipo": "Athletic Club",
+        "escudo": "/images/athletic/athletic.png"
+      },
+      {
+        "nombre": "Hugo Duro",
+        "foto": "/images/valencia/duro.png",
+        "goles": 13,
+        "equipo": "Valencia CF",
+        "escudo": "/images/valencia/valencia.png"
+      },
+      {
+        "nombre": "Jorgen Larsen",
+        "foto": "/images/celta/larsen.png",
+        "goles": 13,
+        "equipo": "RC Celta de Vigo",
+        "escudo": "/images/celta/celta.png"
+      },
+      {
+        "nombre": "Iñaki Williams",
+        "foto": "/images/athletic/iñaki_williams.png",
+        "goles": 12,
+        "equipo": "Athletic Club",
+        "escudo": "/images/athletic/athletic.png"
+      },
+      {
+        "nombre": "Myrto Uzuni",
+        "foto": "/images/granada/uzuni.png",
+        "goles": 11,
+        "equipo": "Granada CF",
+        "escudo": "/images/granada/granada.png"
+      },
+      {
+        "nombre": "Joselu Mato",
+        "foto": "/images/madrid/joselu.png",
+        "goles": 10,
+        "equipo": "Real Madrid",
+        "escudo": "/images/madrid/madrid.png"
+      },
+      {
+        "nombre": "Rodrygo Goes",
+        "foto": "/images/madrid/rodrygo.png",
+        "goles": 10,
+        "equipo": "Real Madrid",
+        "escudo": "/images/madrid/madrid.png"
+      },
+      {
+        "nombre": "Gerard Moreno",
+        "foto": "/images/villarreal/gerard.png",
+        "goles": 10,
+        "equipo": "Villarreal CF",
+        "escudo": "/images/villarreal/villarreal.png"
+      },
+      {
+        "nombre": "Willian José",
+        "foto": "/images/betis/willian.png",
+        "goles": 10,
+        "equipo": "Real Betis",
+        "escudo": "/images/betis/betis.png"
+      },
+      {
+        "nombre": "Sergio Arribas",
+        "foto": "/images/almeria/arribas.png",
+        "goles": 9,
+        "equipo": "UD Almeria",
+        "escudo": "/images/almeria/almeria.png"
+      }
+    ],
+    "asistentes": [
+      {
+        "nombre": "Alex Baena",
+        "foto": "/images/villarreal/baena.png",
+        "asistencias": 14,
+        "equipo": "Villarreal CF",
+        "escudo": "/images/villarreal/villarreal.png"
+      },
+      {
+        "nombre": "Nico Williams",
+        "foto": "/images/athletic/nico_williams.png",
+        "asistencias": 11,
+        "equipo": "Athletic Club",
+        "escudo": "/images/athletic/athletic.png"
+      },
+      {
+        "nombre": "Sávio Moreira",
+        "foto": "/images/girona/savio.png",
+        "asistencias": 10,
+        "equipo": "Girona FC",
+        "escudo": "/images/girona/girona.png" 
+      },
+      {
+        "nombre": "Iago Aspas",
+        "foto": "/images/celta/aspas.png",
+        "asistencias": 10,
+        "equipo": "RC Celta de Vigo",
+        "escudo": "/images/celta/celta.png"
+      },
+      {
+        "nombre": "Ilkay Gündogan",
+        "foto": "/images/barcelona/gundogan.png",
+        "asistencias": 9,
+        "equipo": "FC Barcelona",
+        "escudo": "/images/barcelona/barcelona.png"
+      },
+      {
+        "nombre": "Raphinha Dias",
+        "foto": "/images/barcelona/raphinha.png",
+        "asistencias": 9,
+        "equipo": "FC Barcelona",
+        "escudo": "/images/barcelona/barcelona.png"
+      },
+      {
+        "nombre": "Yan Couto",
+        "foto": "/images/girona/couto.png",
+        "asistencias": 8,
+        "equipo": "Girona FC",
+        "escudo": "/images/girona/girona.png" 
+      },
+      {
+        "nombre": "Artem Dovbyk",
+        "foto": "/images/girona/dovbyk.png",
+        "asistencias": 8,
+        "equipo": "Girona FC",
+        "escudo": "/images/girona/girona.png"        
+      },
+      {
+        "nombre": "Toni Kroos",
+        "foto": "/images/madrid/kroos.png",
+        "asistencias": 8,
+        "equipo": "Real Madrid",
+        "escudo": "/images/madrid/madrid.png"
+      },
+      {
+        "nombre": "Robert Lewandowski",
+        "foto": "/images/barcelona/lewa.png",
+        "asistencias": 8,
+        "equipo": "FC Barcelona",
+        "escudo": "/images/barcelona/barcelona.png"
+      },
+      {
+        "nombre": "Viktor Tsygankov",
+        "foto": "/images/girona/tsygankov.png",
+        "asistencias": 7,
+        "equipo": "Girona FC",
+        "escudo": "/images/girona/girona.png" 
+      },
+      {
+        "nombre": "Miguel Gutiérrez",
+        "foto": "/images/girona/miguel.png",
+        "asistencias": 7,
+        "equipo": "Girona FC",
+        "escudo": "/images/girona/girona.png" 
+      },
+      {
+        "nombre": "Federico Valverde",
+        "foto": "/images/madrid/valverde.png",
+        "asistencias": 7,
+        "equipo": "Real Madrid",
+        "escudo": "/images/madrid/madrid.png"
+      },
+      {
+        "nombre": "Diego Rico",
+        "foto": "/images/getafe/rico.png",
+        "asistencias": 7,
+        "equipo": "Getafe FC",
+        "escudo": "/images/getafe/getafe.png"
+      },
+      {
+        "nombre": "Diego López",
+        "foto": "/images/valencia/lopez.png",
+        "asistencias": 6,
+        "equipo": "Valencia CF",
+        "escudo": "/images/valencia/valencia.png"
+      },
+      {
+        "nombre": "Brais Méndez",
+        "foto": "/images/sociedad/brais.png",
+        "asistencias": 6,
+        "equipo": "Real Sociedad",
+        "escudo": "/images/sociedad/sociedad.png"
+      },
+      {
+        "nombre": "Aleix García",
+        "foto": "/images/girona/aleix.png",
+        "asistencias": 6,
+        "equipo": "Girona FC",
+        "escudo": "/images/girona/girona.png" 
+      },
+      {
+        "nombre": "Luka Modric",
+        "foto": "/images/madrid/modric.png",
+        "asistencias": 6,
+        "equipo": "Real Madrid",
+        "escudo": "/images/madrid/madrid.png"
+      },
+      {
+        "nombre": "Jude Bellingham",
+        "foto": "/images/madrid/jude.png",
+        "asistencias": 6,
+        "equipo": "FC Barcelona",
+        "escudo": "/images/barcelona/barcelona.png"
+      },
+      {
+        "nombre": "Gerard Moreno",
+        "foto": "/images/villarreal/gerard.png",
+        "asistencias": 6,
+        "equipo": "Villarreal CF",
+        "escudo": "/images/villarreal/villarreal.png"
+      }
+    ]
+  }
+  

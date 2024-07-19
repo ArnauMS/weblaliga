@@ -1,0 +1,68 @@
+.container-clasificacion {
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: fit-content;
+  height: fit-content;
+}
+
+.logo-container-clasificacion {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 10px 15px;
+  text-decoration: none;
+  color: black;
+}
+
+.logo-clasificacion {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+  margin-left: 8px;
+}
+
+.tabla-clasificacion {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #fff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.tabla-clasificacion th, .tabla-clasificacion td {
+  padding: 12px 15px;
+  text-align: center;
+}
+
+.tabla-clasificacion th {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.tabla-clasificacion tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.tabla-clasificacion tbody tr:hover {
+  background-color: #ddd;
+}
+
+.equipo-container-clasificacion {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 10px 15px;
+  text-decoration: none;
+  color: black;
+  width: auto;
+}
+
+.escudo-clasificacion {
+  width: 25px;
+  height: 25px;
+  object-fit: contain;
+  margin-right: 10px;
+}
