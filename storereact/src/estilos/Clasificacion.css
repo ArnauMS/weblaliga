@@ -1,5 +1,6 @@
 .container-clasificacion {
   margin-top: 20px;
+  margin-bottom: 20px;
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -65,4 +66,13 @@
   height: 25px;
   object-fit: contain;
   margin-right: 10px;
+}
+
+@media (max-width: 950px) {
+  .tabla-clasificacion {
+      width: fit-content;
+  }
+  .logo-clasificacion {
+    margin-left: 30px;
+  }
 }

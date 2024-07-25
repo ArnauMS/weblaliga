@@ -4,6 +4,7 @@
     "equipos": [
       {
         "nombre": "Athletic Club",
+        "abreviatura": "ATH",
         "escudo": "/images/athletic/athletic.png",
         "puntos": 68,
         "partidos_jugados": 38,
@@ -144,6 +145,7 @@
       },
       {
         "nombre": "Atlético de Madrid",
+        "abreviatura": "ATM",
         "escudo": "/images/atletico/atletico.png",
         "puntos": 76,
         "partidos_jugados": 38,
@@ -279,6 +281,7 @@
       },
       {
         "nombre": "CA Osasuna",
+        "abreviatura": "OSA",
         "escudo": "/images/osasuna/osasuna.png",
         "puntos": 45,
         "partidos_jugados": 38,
@@ -399,6 +402,7 @@
       },
       {
         "nombre": "Real Madrid",
+        "abreviatura": "RMA",
         "escudo": "/images/madrid/madrid.png",
         "puntos": 95,
         "partidos_jugados": 38,
@@ -534,6 +538,7 @@
       },
       {
         "nombre": "FC Barcelona",
+        "abreviatura": "FCB",
         "escudo": "/images/barcelona/barcelona.png",
         "puntos": 85,
         "partidos_jugados": 38,
@@ -670,6 +675,7 @@
       },
       {
         "nombre": "Sevilla FC",
+        "abreviatura": "SEV",
         "escudo": "/images/sevilla/sevilla.png",
         "puntos": 41,
         "partidos_jugados": 38,
@@ -836,6 +842,7 @@
       },
       {
         "nombre": "Real Betis",
+        "abreviatura": "BET",
         "escudo": "/images/betis/betis.png",
         "puntos": 57,
         "partidos_jugados": 38,
@@ -986,6 +993,7 @@
       },
       {
         "nombre": "Real Sociedad",
+        "abreviatura": "RSO",
         "escudo": "/images/sociedad/sociedad.png",
         "puntos": 60,
         "partidos_jugados": 38,
@@ -1137,6 +1145,7 @@
       },
       {
         "nombre": "RCD Mallorca",
+        "abreviatura": "MLL",
         "escudo": "/images/mallorca/mallorca.png",
         "puntos": 40,
         "partidos_jugados": 38,
@@ -1278,6 +1287,7 @@
       },
       {
         "nombre": "Valencia CF",
+        "abreviatura": "VAL",
         "escudo": "/images/valencia/valencia.png",
         "puntos": 49,
         "partidos_jugados": 38,
@@ -1409,6 +1419,7 @@
       },
       {
         "nombre": "Deportivo Alavés",
+        "abreviatura": "ALA",
         "escudo": "/images/alaves/alaves.png",
         "puntos": 46,
         "partidos_jugados": 38,
@@ -1545,6 +1556,7 @@
       },
       {
         "nombre": "Villarreal CF",
+        "abreviatura": "VIL",
         "escudo": "/images/villarreal/villarreal.png",
         "puntos": 53,
         "partidos_jugados": 38,
@@ -1701,6 +1713,7 @@
       },
       {
         "nombre": "RC Celta de Vigo",
+        "abreviatura": "CEL",
         "escudo": "/images/celta/celta.png",
         "puntos": 41,
         "partidos_jugados": 38,
@@ -1857,6 +1870,7 @@
       },
       {
         "nombre": "Rayo Vallecano",
+        "abreviatura": "RAY",
         "escudo": "/images/rayo/rayo.png",
         "puntos": 38,
         "partidos_jugados": 38,
@@ -2003,6 +2017,7 @@
       },
       {
         "nombre": "Girona FC",
+        "abreviatura": "GIR",
         "escudo": "/images/girona/girona.png",
         "puntos": 81,
         "partidos_jugados": 38,
@@ -2134,6 +2149,7 @@
       },
       {
         "nombre": "UD Las Palmas",
+        "abreviatura": "LAS",
         "escudo": "/images/palmas/palmas.png",
         "puntos": 40,
         "partidos_jugados": 38,
@@ -2285,6 +2301,7 @@
       },
       {
         "nombre": "Getafe FC",
+        "abreviatura": "GET",
         "escudo": "/images/getafe/getafe.png",
         "puntos": 43,
         "partidos_jugados": 38,
@@ -2411,6 +2428,7 @@
       },
       {
         "nombre": "UD Almeria",
+        "abreviatura": "ALM",
         "escudo": "/images/almeria/almeria.png",
         "puntos": 21,
         "partidos_jugados": 38,
@@ -2552,6 +2570,7 @@
       },
       {
         "nombre": "Cádiz CF",
+        "abreviatura": "CAD",
         "escudo": "/images/cadiz/cadiz.png",
         "puntos": 33,
         "partidos_jugados": 38,
@@ -2717,6 +2736,7 @@
         }
       },{
         "nombre": "Granada CF",
+        "abreviatura": "GRA",
         "escudo": "/images/granada/granada.png",
         "puntos": 21,
         "partidos_jugados": 38,
@@ -2873,6 +2893,7 @@
         "foto": "/images/girona/dovbyk.png",
         "goles": 24,
         "equipo": "Girona FC",
+        "abreviatura": "GIR",
         "escudo": "/images/girona/girona.png"        
       },
       {
@@ -2880,20 +2901,23 @@
         "foto": "/images/villarreal/sorloth.png",
         "goles": 23,
         "equipo": "Villarreal CF",
+        "abreviatura": "VIL",
         "escudo": "/images/villarreal/villarreal.png"
       },
       {
         "nombre": "Jude Bellingham",
         "foto": "/images/madrid/jude.png",
         "goles": 19,
-        "equipo": "FC Barcelona",
-        "escudo": "/images/barcelona/barcelona.png"
+        "equipo": "Real Madrid",
+        "abreviatura": "RMA",
+        "escudo": "/images/madrid/madrid.png"
       },
       {
         "nombre": "Robert Lewandowski",
         "foto": "/images/barcelona/lewa.png",
         "goles": 19,
         "equipo": "FC Barcelona",
+        "abreviatura": "FCB",
         "escudo": "/images/barcelona/barcelona.png"
       },
       {
@@ -2901,6 +2925,7 @@
         "foto": "/images/osasuna/budimir.png",
         "goles": 17,
         "equipo": "CA Osasuna",
+        "abreviatura": "OSA",
         "escudo": "/images/osasuna/osasuna.png"
       },
       {
@@ -2908,6 +2933,7 @@
         "foto": "/images/sevilla/youssef.png",
         "goles": 16,
         "equipo": "Sevilla FC",
+        "abreviatura": "SEV",
         "escudo": "/images/sevilla/sevilla.png"
       },
       {
@@ -2915,6 +2941,7 @@
         "foto": "/images/atletico/griezmann.png",
         "goles": 16,
         "equipo": "Atlético de Madrid",
+        "abreviatura": "ARM",
         "escudo": "/images/atletico/atletico.png"
       },
       {
@@ -2922,6 +2949,7 @@
         "foto": "/images/madrid/vini.png",
         "goles": 15,
         "equipo": "Real Madrid",
+        "abreviatura": "RMA",
         "escudo": "/images/madrid/madrid.png"
       },
       {
@@ -2929,6 +2957,7 @@
         "foto": "/images/getafe/borja.png",
         "goles": 15,
         "equipo": "Getafe FC",
+        "abreviatura": "GET",
         "escudo": "/images/getafe/getafe.png"
       },
       {
@@ -2936,6 +2965,7 @@
         "foto": "/images/atletico/morata.png",
         "goles": 15,
         "equipo": "Atlético de Madrid",
+        "abreviatura": "ATM",
         "escudo": "/images/atletico/atletico.png"
       },
       {
@@ -2943,6 +2973,7 @@
         "foto": "/images/athletic/gorka_guruzeta.png",
         "goles": 14,
         "equipo": "Athletic Club",
+        "abreviatura": "ATH",
         "escudo": "/images/athletic/athletic.png"
       },
       {
@@ -2950,6 +2981,7 @@
         "foto": "/images/valencia/duro.png",
         "goles": 13,
         "equipo": "Valencia CF",
+        "abreviatura": "VAL",
         "escudo": "/images/valencia/valencia.png"
       },
       {
@@ -2957,6 +2989,7 @@
         "foto": "/images/celta/larsen.png",
         "goles": 13,
         "equipo": "RC Celta de Vigo",
+        "abreviatura": "CEL",
         "escudo": "/images/celta/celta.png"
       },
       {
@@ -2964,6 +2997,7 @@
         "foto": "/images/athletic/iñaki_williams.png",
         "goles": 12,
         "equipo": "Athletic Club",
+        "abreviatura": "ATH",
         "escudo": "/images/athletic/athletic.png"
       },
       {
@@ -2971,6 +3005,7 @@
         "foto": "/images/granada/uzuni.png",
         "goles": 11,
         "equipo": "Granada CF",
+        "abreviatura": "GRA",
         "escudo": "/images/granada/granada.png"
       },
       {
@@ -2978,6 +3013,7 @@
         "foto": "/images/madrid/joselu.png",
         "goles": 10,
         "equipo": "Real Madrid",
+        "abreviatura": "RMA",
         "escudo": "/images/madrid/madrid.png"
       },
       {
@@ -2985,6 +3021,7 @@
         "foto": "/images/madrid/rodrygo.png",
         "goles": 10,
         "equipo": "Real Madrid",
+        "abreviatura": "RMA",
         "escudo": "/images/madrid/madrid.png"
       },
       {
@@ -2992,6 +3029,7 @@
         "foto": "/images/villarreal/gerard.png",
         "goles": 10,
         "equipo": "Villarreal CF",
+        "abreviatura": "VIL",
         "escudo": "/images/villarreal/villarreal.png"
       },
       {
@@ -2999,6 +3037,7 @@
         "foto": "/images/betis/willian.png",
         "goles": 10,
         "equipo": "Real Betis",
+        "abreviatura": "BET",
         "escudo": "/images/betis/betis.png"
       },
       {
@@ -3006,6 +3045,7 @@
         "foto": "/images/almeria/arribas.png",
         "goles": 9,
         "equipo": "UD Almeria",
+        "abreviatura": "ALM",
         "escudo": "/images/almeria/almeria.png"
       }
     ],
@@ -3015,6 +3055,7 @@
         "foto": "/images/villarreal/baena.png",
         "asistencias": 14,
         "equipo": "Villarreal CF",
+        "abreviatura": "VIL",
         "escudo": "/images/villarreal/villarreal.png"
       },
       {
@@ -3022,6 +3063,7 @@
         "foto": "/images/athletic/nico_williams.png",
         "asistencias": 11,
         "equipo": "Athletic Club",
+        "abreviatura": "ATH",
         "escudo": "/images/athletic/athletic.png"
       },
       {
@@ -3029,6 +3071,7 @@
         "foto": "/images/girona/savio.png",
         "asistencias": 10,
         "equipo": "Girona FC",
+        "abreviatura": "GIR",
         "escudo": "/images/girona/girona.png" 
       },
       {
@@ -3036,6 +3079,7 @@
         "foto": "/images/celta/aspas.png",
         "asistencias": 10,
         "equipo": "RC Celta de Vigo",
+        "abreviatura": "CEL",
         "escudo": "/images/celta/celta.png"
       },
       {
@@ -3043,6 +3087,7 @@
         "foto": "/images/barcelona/gundogan.png",
         "asistencias": 9,
         "equipo": "FC Barcelona",
+        "abreviatura": "FCB",
         "escudo": "/images/barcelona/barcelona.png"
       },
       {
@@ -3050,6 +3095,7 @@
         "foto": "/images/barcelona/raphinha.png",
         "asistencias": 9,
         "equipo": "FC Barcelona",
+        "abreviatura": "FCB",
         "escudo": "/images/barcelona/barcelona.png"
       },
       {
@@ -3057,6 +3103,7 @@
         "foto": "/images/girona/couto.png",
         "asistencias": 8,
         "equipo": "Girona FC",
+        "abreviatura": "GIR",
         "escudo": "/images/girona/girona.png" 
       },
       {
@@ -3064,6 +3111,7 @@
         "foto": "/images/girona/dovbyk.png",
         "asistencias": 8,
         "equipo": "Girona FC",
+        "abreviatura": "GIR",
         "escudo": "/images/girona/girona.png"        
       },
       {
@@ -3071,6 +3119,7 @@
         "foto": "/images/madrid/kroos.png",
         "asistencias": 8,
         "equipo": "Real Madrid",
+        "abreviatura": "RMA",
         "escudo": "/images/madrid/madrid.png"
       },
       {
@@ -3078,6 +3127,7 @@
         "foto": "/images/barcelona/lewa.png",
         "asistencias": 8,
         "equipo": "FC Barcelona",
+        "abreviatura": "FCB",
         "escudo": "/images/barcelona/barcelona.png"
       },
       {
@@ -3085,6 +3135,7 @@
         "foto": "/images/girona/tsygankov.png",
         "asistencias": 7,
         "equipo": "Girona FC",
+        "abreviatura": "GIR",
         "escudo": "/images/girona/girona.png" 
       },
       {
@@ -3092,6 +3143,7 @@
         "foto": "/images/girona/miguel.png",
         "asistencias": 7,
         "equipo": "Girona FC",
+        "abreviatura": "GIR",
         "escudo": "/images/girona/girona.png" 
       },
       {
@@ -3099,6 +3151,7 @@
         "foto": "/images/madrid/valverde.png",
         "asistencias": 7,
         "equipo": "Real Madrid",
+        "abreviatura": "RMA",
         "escudo": "/images/madrid/madrid.png"
       },
       {
@@ -3106,6 +3159,7 @@
         "foto": "/images/getafe/rico.png",
         "asistencias": 7,
         "equipo": "Getafe FC",
+        "abreviatura": "GET",
         "escudo": "/images/getafe/getafe.png"
       },
       {
@@ -3113,6 +3167,7 @@
         "foto": "/images/valencia/lopez.png",
         "asistencias": 6,
         "equipo": "Valencia CF",
+        "abreviatura": "VAL",
         "escudo": "/images/valencia/valencia.png"
       },
       {
@@ -3120,6 +3175,7 @@
         "foto": "/images/sociedad/brais.png",
         "asistencias": 6,
         "equipo": "Real Sociedad",
+        "abreviatura": "RSO",
         "escudo": "/images/sociedad/sociedad.png"
       },
       {
@@ -3127,6 +3183,7 @@
         "foto": "/images/girona/aleix.png",
         "asistencias": 6,
         "equipo": "Girona FC",
+        "abreviatura": "GIR",
         "escudo": "/images/girona/girona.png" 
       },
       {
@@ -3134,20 +3191,23 @@
         "foto": "/images/madrid/modric.png",
         "asistencias": 6,
         "equipo": "Real Madrid",
+        "abreviatura": "RMA",
         "escudo": "/images/madrid/madrid.png"
       },
       {
         "nombre": "Jude Bellingham",
         "foto": "/images/madrid/jude.png",
         "asistencias": 6,
-        "equipo": "FC Barcelona",
-        "escudo": "/images/barcelona/barcelona.png"
+        "equipo": "Real Madrid",
+        "abreviatura": "RMA",
+        "escudo": "/images/madrid/madrid.png"
       },
       {
         "nombre": "Gerard Moreno",
         "foto": "/images/villarreal/gerard.png",
         "asistencias": 6,
         "equipo": "Villarreal CF",
+        "abreviatura": "VIL",
         "escudo": "/images/villarreal/villarreal.png"
       }
     ]

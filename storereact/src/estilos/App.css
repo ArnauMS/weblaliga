@@ -1,25 +1,40 @@
-.container-escudos {
+.container {
   position: sticky;
   display: flex;
-  gap: 10px;
   background-color: #4CAF50;
-  justify-content: center;
-  align-items: center;
-  min-width: 1000px;
-  height: 75px;
+  width: 100%;
+  height: fit-content;
   padding: 5px;
   top: 0;
   left: 0;
   z-index: 1000;
+  width: 100%;
 }
 
-.logo-container {
+.container-escudos-ordenador {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 10px;
+}
+
+.logo-container, .logo-container-movil {
   display: flex;
   align-items: center;
   justify-content: flex-start;
-  padding: 10px 15px;
+  padding: 0px 15px;
   text-decoration: none;
   color: white;
+}
+
+.logo-container-movil {
+  width: 100%;
+}
+
+.logo-container-movil:hover {
+  background-color: #459a48;
 }
 
 .logo {
@@ -28,7 +43,7 @@
   object-fit: contain;
 }
 
-.escudo-container {
+.escudo-container, .escudo-container-movil {
   width: 40px;
   height: 40px;
   overflow: hidden;
@@ -43,6 +58,56 @@
   width: 100%;
   height: 100%;
   object-fit: contain;
+}
+
+.hamburger {
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  cursor: pointer;
+  margin: 15px;
+}
+
+.hamburger div {
+  width: 25px;
+  height: 3px;
+  background-color: white;
+  margin: 3px;
+}
+
+.container-escudos-movil {
+  display: none;
+  flex-direction: column;
+  align-items: start;
+  background-color: #4CAF50;
+  position: absolute;
+  top: 60px;
+  left: 0;
+  right: 0;
+  z-index: 1;
+  max-height: calc(100vh - 60px);
+  overflow-y: auto;
+  overflow-x: hidden;
+  width: fit-content;
+}
+
+.escudo-container-movil {
+  justify-content: start;
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+  width: 100%;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  overflow: hidden;
+}
+
+.escudo-container-movil:hover {
+  background-color: #459a48;
+}
+
+.nombre-liga-movil {
+  font-size: 22px;
 }
 
 .container-background {
@@ -84,9 +149,21 @@
   width: 45%;
 }
 
-@media (max-width: 1500px) {
+@media (max-width: 1530px) {
+  .home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+  }
+}
+
+@media (max-width: 1510px) {
   .nombre-liga {
     display: none;
+  }
+
+  .container {
+    height: 65px;
   }
 
   .logo {
@@ -107,10 +184,33 @@
   }
 }
 
-@media (max-width: 1530px) {
-  .home-container {
+@media (max-width: 1050px) {
+  /* .container {
+    height: fit-content;
+  } */
+
+  .container-escudos-ordenador {
+    display: none;
+  }
+
+  .hamburger {
     display: flex;
-    flex-direction: column;
-    align-items: center; 
+  }
+
+  .container-escudos-movil.active {
+    display: flex;
+  }
+
+  .logo {
+    width: 50px;
+    height: 50px;
+    margin-right: 20px;
+  }
+
+  .escudo {
+    width: 40px;
+    height: 40px;
+    margin-right: 20px;
+    margin-left: 15px;
   }
 }

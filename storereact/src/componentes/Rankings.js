@@ -8,17 +8,24 @@ function Rankings() {
     const [asistentesOrdenados, setAsistentesOrdenados] = useState([]);
     const [showMoreGoleadores, setShowMoreGoleadores] = useState(false);
     const [showMoreAsistentes, setShowMoreAsistentes] = useState(false);
+    const [pantallaPequeña, setPantallaPequeña] = useState(window.innerWidth < 700);
   
     useEffect(() => {
       if (data && data.goleadores) {
-          const ordenadosGoleadores = [...data.goleadores].sort((a, b) => b.goles - a.goles);
-          setGoleadoresOrdenados(ordenadosGoleadores);
+        const ordenadosGoleadores = [...data.goleadores].sort((a, b) => b.goles - a.goles);
+        setGoleadoresOrdenados(ordenadosGoleadores);
       }
   
       if (data && data.asistentes) {
-          const ordenadosAsistentes = [...data.asistentes].sort((a, b) => b.asistencias - a.asistencias);
-          setAsistentesOrdenados(ordenadosAsistentes);
+        const ordenadosAsistentes = [...data.asistentes].sort((a, b) => b.asistencias - a.asistencias);
+        setAsistentesOrdenados(ordenadosAsistentes);
       }
+    }, []);
+
+    useEffect(() => {
+      const redimension = () => setPantallaPequeña(window.innerWidth < 700);
+      window.addEventListener('resize', redimension);
+      return () => window.removeEventListener('resize', redimension);
     }, []);
   
     const displayedGoleadores = showMoreGoleadores ? goleadoresOrdenados : goleadoresOrdenados.slice(0, 5);
@@ -48,7 +55,7 @@ function Rankings() {
                 <td>
                   <Link key={jugador.equipo} to={`/equipo/${jugador.equipo}`} className='div-equipo'>
                     <img src={jugador.escudo} alt={jugador.equipo} className="jugador-escudo" />
-                    {jugador.equipo}
+                    {pantallaPequeña ? jugador.abreviatura : jugador.equipo}
                   </Link>                  
                 </td>
                 <td><b>{jugador.goles}</b></td>
@@ -67,7 +74,11 @@ function Rankings() {
             <tr>
               <th>Jugador</th>
               <th>Equipo</th>
-              <th>Asistencias</th>
+              {!pantallaPequeña ? (
+                <th>Asistencias</th>
+              ) : (
+                <th>Asistencias</th>
+              )}
             </tr>
           </thead>
           <tbody>
@@ -82,7 +93,7 @@ function Rankings() {
                 <td>
                   <Link key={jugador.equipo} to={`/equipo/${jugador.equipo}`} className='div-equipo'>
                     <img src={jugador.escudo} alt={jugador.equipo} className="jugador-escudo" />
-                    {jugador.equipo}
+                    {pantallaPequeña ? jugador.abreviatura : jugador.equipo}
                   </Link>                  
                 </td>
                 <td><b>{jugador.asistencias}</b></td>

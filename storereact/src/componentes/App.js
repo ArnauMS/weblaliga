@@ -8,6 +8,12 @@ import Rankings from './Rankings';
 
 function App() {
   const [equiposOrdenados, setEquiposOrdenados] = useState([]);
+  const [isOpen, setIsOpen] = useState(false);
+
+  // Funcion para detectar si el menu esta abierto o cerrado cuando el menu de movil esta activado
+  const toggleMenu = () => {
+    setIsOpen(!isOpen);
+  };
 
   useEffect(() => {
     if (data && data.equipos) {
@@ -18,21 +24,39 @@ function App() {
 
   return (
     <Router>
-      <div className='container'>
+      
         {data ? (
           <>
-            <div className='container-escudos'>
-              <Link key={"LaLiga"} to={'/'} className="logo-container">
-                <img className="logo" src={data.logo} alt={`${data.liga} logo`} />
-                <h1 className='nombre-liga'>{data.liga}</h1>
-              </Link>
-              {equiposOrdenados.map((equipo) => (
-                <Link key={equipo.nombre} to={`/equipo/${equipo.nombre}`} className="escudo-container">
-                  <img className="escudo" src={equipo.escudo} alt={`${equipo.nombre} escudo`} />
+            <div className='container'>
+              <div className='container-escudos-ordenador'>
+                <Link key={"LaLiga"} to={'/'} className="logo-container">
+                  <img className="logo" src={data.logo} alt={`${data.liga} logo`} />
+                  <h1 className='nombre-liga'>{data.liga}</h1>
                 </Link>
-              ))}
+                {equiposOrdenados.map((equipo) => (
+                  <Link key={equipo.nombre} to={`/equipo/${equipo.nombre}`} className="escudo-container">
+                    <img className="escudo" src={equipo.escudo} alt={`${equipo.nombre} escudo`} />
+                  </Link>
+                ))}
+              </div>
+              <div className="hamburger" onClick={toggleMenu}>
+                <div></div>
+                <div></div>
+                <div></div>
+              </div>
+              <div className={`container-escudos-movil ${isOpen ? 'active' : ''}`}>
+                <Link key={"LaLiga"} to={'/'} className="logo-container-movil">
+                  <img className="logo" src={data.logo} alt={`${data.liga} logo`} />
+                  <p className='nombre-liga-movil'><b>{data.liga}</b></p>
+                </Link>
+                {equiposOrdenados.map((equipo) => (
+                  <Link key={equipo.nombre} to={`/equipo/${equipo.nombre}`} className="escudo-container-movil">
+                    <img className="escudo" src={equipo.escudo} alt={`${equipo.nombre} escudo`} />
+                    <p>{equipo.nombre}</p>
+                  </Link>
+                ))}
+              </div>
             </div>
-
             <div className='container-background'>
               <Routes>
                 <Route path="/" element={<Home />} />
@@ -43,7 +67,7 @@ function App() {
         ) : (
           <p>Cargando...</p>
         )}
-      </div>
+      
     </Router>
   );
 }

@@ -1,7 +1,7 @@
 .rankings-container {
     display: flex;
     flex-direction: column;
-    align-items: center; 
+    align-items: center;
 }
   
 .tabla {
@@ -31,7 +31,7 @@
     background-color: #ddd;
 }
   
-.jugador-foto, .jugador-escudo {
+.jugador-escudo {
     width: 25px;
     height: 25px;
     object-fit: contain;
@@ -41,6 +41,8 @@
 .jugador-foto {
     width: 60px;
     height: 60px;
+    object-fit: contain;
+    margin-right: 10px;
 }
   
 .tabla-goleadores, .tabla-asistentes {
@@ -71,8 +73,21 @@ button:hover {
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    padding: 10px 15px;
+    padding: 10px;
     text-decoration: none;
     color: black;
-    width: auto;
+    width: fit-content;
+}
+
+@media (max-width: 700px) {
+    .tabla-goleadores, .tabla-asistentes {
+        width: fit-content;
+    }
+    .jugador-foto {
+        width: 30px;
+        height: 30px;
+    }
+    .tabla {
+        width: fit-content;
+    }
 }
