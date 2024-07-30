@@ -91,10 +91,17 @@ button:hover {
     .tabla-goleadores, .tabla-asistentes {
         width: 85%;
     }
+
+    .tabla {
+        border-spacing: 0px;
+        table-layout: fixed;
+    }
+
     .jugador-foto {
         width: 25px;
         height: 25px;
     }
+
     .tabla {
         width: 100%;
     }

@@ -1,6 +1,5 @@
 .container-clasificacion {
   margin: 20px;
-  /* margin-bottom: 20px; */
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -55,7 +54,7 @@
   display: flex;
   align-items: center;
   justify-content: flex-start;
-  padding: 10px 15px;
+  padding: 5px 0px;
   text-decoration: none;
   color: black;
   width: auto;
@@ -71,5 +70,15 @@
 @media (max-width: 950px) {
   .logo-clasificacion {
     margin-left: 30px;
+  }
+
+  
+  .tabla-clasificacion {
+    border-spacing: 0;
+    table-layout: fixed;
+  }
+  
+  .tabla-clasificacion th, .tabla-clasificacion td {
+    padding: 8px 0px;
   }
 }
