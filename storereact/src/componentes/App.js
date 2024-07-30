@@ -24,7 +24,6 @@ function App() {
 
   return (
     <Router>
-      
         {data ? (
           <>
             <div className='container'>
@@ -67,7 +66,6 @@ function App() {
         ) : (
           <p>Cargando...</p>
         )}
-      
     </Router>
   );
 }

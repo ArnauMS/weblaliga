@@ -73,12 +73,12 @@
 
 @media (max-width: 500px) {
     .jugador-card {
-        width: 150px;
+        width: 120px;
     }
 
     .jugador-card img {
-        width: 120px;
-        height: 120px;
+        width: 100px;
+        height: 100px;
     }
 
     .nombre {
