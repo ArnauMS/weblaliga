@@ -41,8 +41,8 @@ function Clasificacion() {
             ) : (
               <th>POS</th>
             )}
-            <th>Equipo</th>
-            <th>PJ</th>
+            <th className='equipo-columna'>Equipo</th>
+            <th className='pj-columna'>PJ</th>
             {!pantallaPequeña && (
               <th>PG</th>
             )}
@@ -70,13 +70,13 @@ function Clasificacion() {
           {equiposOrdenados.map((equipo, index) => (
             <tr key={equipo.nombre}>
               <td>{index + 1}</td>
-              <td >
+              <td className='equipo-columna'>
                 <Link key={equipo.nombre} to={`/equipo/${equipo.nombre}`} className="equipo-container-clasificacion">
                   <img className="escudo-clasificacion" src={equipo.escudo} alt={`${equipo.nombre} escudo`} />
                   {pantallaPequeña ? equipo.abreviatura : equipo.nombre}
                 </Link>
               </td>
-              <td>{equipo.partidos_jugados}</td>
+              <td className='pj-columna'>{equipo.partidos_jugados}</td>
               {!pantallaPequeña && (
                 <td>{equipo.victorias}</td>
               )}

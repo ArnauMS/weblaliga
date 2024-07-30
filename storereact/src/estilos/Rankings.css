@@ -106,3 +106,15 @@ button:hover {
         width: 100%;
     }
 }
+
+@media (max-width: 650px) {
+    .columna {
+      width: 100px;
+    }
+}
+
+@media (max-width: 500px) {
+    .columna {
+      width: 60px;
+    }
+}

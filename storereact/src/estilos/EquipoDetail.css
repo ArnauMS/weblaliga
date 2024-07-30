@@ -85,3 +85,18 @@
         font-size: 18px;
     }
 }
+
+@media (max-width: 450px) {
+    .jugador-card {
+        width: 100px;
+    }
+
+    .jugador-card img {
+        width: 80px;
+        height: 80px;
+    }
+
+    .nombre {
+        font-size: 17px;
+    }
+}

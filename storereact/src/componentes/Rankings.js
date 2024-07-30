@@ -39,8 +39,8 @@ function Rankings() {
           <thead>
             <tr>
               <th>Jugador</th>
-              <th>Equipo</th>
-              <th>Goles</th>
+              <th className='columna'>Equipo</th>
+              <th className='columna'>Goles</th>
             </tr>
           </thead>
           <tbody>
@@ -52,13 +52,13 @@ function Rankings() {
                       {jugador.nombre}
                   </div>                  
                 </td>
-                <td>
+                <td className='columna'>
                   <Link key={jugador.equipo} to={`/equipo/${jugador.equipo}`} className='div-equipo'>
                     <img src={jugador.escudo} alt={jugador.equipo} className="jugador-escudo" />
                     {pantallaPequeña ? jugador.abreviatura : jugador.equipo}
                   </Link>                  
                 </td>
-                <td><b>{jugador.goles}</b></td>
+                <td className='columna'><b>{jugador.goles}</b></td>
               </tr>
             ))}
           </tbody>
@@ -73,12 +73,8 @@ function Rankings() {
           <thead>
             <tr>
               <th>Jugador</th>
-              <th>Equipo</th>
-              {!pantallaPequeña ? (
-                <th>Asistencias</th>
-              ) : (
-                <th>Asistencias</th>
-              )}
+              <th className='columna'>Equipo</th>
+              <th className='columna'>Asistencias</th>
             </tr>
           </thead>
           <tbody>
@@ -90,13 +86,13 @@ function Rankings() {
                       {jugador.nombre}
                   </div>                  
                 </td>
-                <td>
+                <td className='columna'>
                   <Link key={jugador.equipo} to={`/equipo/${jugador.equipo}`} className='div-equipo'>
                     <img src={jugador.escudo} alt={jugador.equipo} className="jugador-escudo" />
                     {pantallaPequeña ? jugador.abreviatura : jugador.equipo}
                   </Link>                  
                 </td>
-                <td><b>{jugador.asistencias}</b></td>
+                <td className='columna'><b>{jugador.asistencias}</b></td>
               </tr>
             ))}
           </tbody>
