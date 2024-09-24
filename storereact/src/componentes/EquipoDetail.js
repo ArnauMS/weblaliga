@@ -1,13 +1,15 @@
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import '../estilos/EquipoDetail.css';
+import data from '../bd.json';
 
-const EquipoDetail = ({ equipos }) => {
+const EquipoDetail = () => {
   const [porteros, setPorteros] = useState([]);
   const [defensas, setDefensas] = useState([]);
   const [centrocampistas, setCentrocampistas] = useState([]);
   const [delanteros, setDelanteros] = useState([]);
   const { nombre } = useParams();
+  const equipos = data.equipos || [];
   const equipo = equipos.find(equipo => equipo.nombre === nombre);
 
   useEffect(() => {

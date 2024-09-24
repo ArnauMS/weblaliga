@@ -1,120 +1,120 @@
 .rankings-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 100%;
-    margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  margin-top: 20px;
 }
   
 .tabla {
-    width: 100%;
-    border-collapse: collapse;
-    background-color: #fff;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    border-radius: 8px;
-    overflow: hidden;
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #fff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
 }
   
 .tabla th, .tabla td {
-    padding: 12px 15px;
-    text-align: center;
+  padding: 12px 15px;
+  text-align: center;
 }
   
 .tabla th {
-    background-color: #4CAF50;
-    color: white;
+  background-color: #4CAF50;
+  color: white;
 }
 
 .tabla tbody tr:nth-child(even) {
-    background-color: #f2f2f2;
+  background-color: #f2f2f2;
 }
   
 .tabla tbody tr:hover {
-    background-color: #ddd;
+  background-color: #ddd;
 }
   
 .jugador-escudo {
-    width: 25px;
-    height: 25px;
-    object-fit: contain;
-    margin-right: 10px;
+  width: 25px;
+  height: 25px;
+  object-fit: contain;
+  margin-right: 10px;
 }
 
 .jugador-foto {
-    width: 60px;
-    height: 60px;
-    object-fit: contain;
-    margin-right: 5px;
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+  margin-right: 5px;
 }
   
 .tabla-goleadores, .tabla-asistentes {
-    padding: 20px;
-    width: 610px;
-    margin-bottom: 20px;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    text-align: center;
+  padding: 20px;
+  width: 610px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
 }
   
 button {
-    margin-top: 10px;
-    padding: 10px;
-    background-color: #007bff;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    font-size: 15px;
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 15px;
 }
   
 button:hover {
-    background-color: #0056b3;
+  background-color: #0056b3;
 }
   
 .div-jugador, .div-equipo {
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    padding: 5px 0px;
-    text-decoration: none;
-    color: black;
-    width: fit-content;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 5px 0px;
+  text-decoration: none;
+  color: black;
+  width: fit-content;
 }
 
 @media (max-width: 1450px) {
-    .rankings-container {
-        margin-top: 0px;
-    }
+  .rankings-container {
+    margin-top: 0px;
+  }
 }
 
 @media (max-width: 750px) {
-    .tabla-goleadores, .tabla-asistentes {
-        width: 85%;
-    }
+  .tabla-goleadores, .tabla-asistentes {
+    width: 85%;
+  }
 
-    .tabla {
-        border-spacing: 0px;
-        table-layout: fixed;
-    }
+  .tabla {
+    border-spacing: 0px;
+    table-layout: fixed;
+  }
 
-    .jugador-foto {
-        width: 25px;
-        height: 25px;
-    }
+  .jugador-foto {
+    width: 25px;
+    height: 25px;
+  }
 
-    .tabla {
-        width: 100%;
-    }
+  .tabla {
+    width: 100%;
+  }
 }
 
 @media (max-width: 650px) {
-    .columna {
-      width: 100px;
-    }
+  .columna {
+    width: 100px;
+  }
 }
 
 @media (max-width: 500px) {
-    .columna {
-      width: 60px;
-    }
+  .columna {
+    width: 60px;
+  }
 }

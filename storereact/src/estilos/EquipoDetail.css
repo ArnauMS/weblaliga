@@ -1,102 +1,102 @@
 .container-jugadores {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 1rem;
-    width: 60%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem;
+  width: 60%;
 }
 
 .section-title {
-    width: 100%;
-    text-align: center;
-    margin-top: 2rem;
-    margin-bottom: 1rem;
-    font-size: 2rem;
+  width: 100%;
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-size: 2rem;
 }
 
 .jugadores-section {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
 }
 
 .jugador-card {
-    position: relative;
-    text-align: center;
-    border: 1px solid black;
-    padding: 1rem;
-    border-radius: 8px;
-    transition: transform 0.2s;
-    width: 200px;
-    background-image: url('../../public/images/fondo_jugadores.png');
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
+  position: relative;
+  text-align: center;
+  border: 1px solid black;
+  padding: 1rem;
+  border-radius: 8px;
+  transition: transform 0.2s;
+  width: 200px;
+  background-image: url('../../public/images/fondo_jugadores.png');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .jugador-card::after {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: 1;
-    opacity: 0.2;
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+  opacity: 0.2;
 }
 
 .jugador-card img {
-    width: 150px;
-    height: 150px;
-    object-fit: cover;
-    border-radius: 50%;
-    border: 1px solid black;
-    z-index: 2;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 1px solid black;
+  z-index: 2;
 }
 
 .jugador-card:hover {
-    transform: scale(1.1);
+  transform: scale(1.1);
 }
 
 .nombre {
-    font-size: 22px;
-    font-family: "Century Gothic";
-    margin-top: 0.5rem;
+  font-size: 22px;
+  font-family: "Century Gothic";
+  margin-top: 0.5rem;
 }
 
 @media (max-width: 1000px) {
-    .container-jugadores {
-        width: 100%;
-    }
+  .container-jugadores {
+    width: 100%;
+  }
 }
 
 @media (max-width: 500px) {
-    .jugador-card {
-        width: 120px;
-    }
+  .jugador-card {
+    width: 120px;
+  }
 
-    .jugador-card img {
-        width: 100px;
-        height: 100px;
-    }
+  .jugador-card img {
+    width: 100px;
+    height: 100px;
+  }
 
-    .nombre {
-        font-size: 18px;
-    }
+  .nombre {
+    font-size: 18px;
+  }
 }
 
 @media (max-width: 450px) {
-    .jugador-card {
-        width: 100px;
-    }
+  .jugador-card {
+    width: 100px;
+  }
 
-    .jugador-card img {
-        width: 80px;
-        height: 80px;
-    }
+  .jugador-card img {
+    width: 80px;
+    height: 80px;
+  }
 
-    .nombre {
-        font-size: 17px;
-    }
+  .nombre {
+    font-size: 17px;
+  }
 }

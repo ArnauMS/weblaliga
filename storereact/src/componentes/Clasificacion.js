@@ -6,6 +6,7 @@ import { Link } from 'react-router-dom';
 function Clasificacion() {
   const [equiposOrdenados, setEquiposOrdenados] = useState([]);
   const [pantallaPequeña, setPantallaPequeña] = useState(window.innerWidth < 850);
+  const [pantallaPequeñaTitulo, setPantallaPequeñaTitulo] = useState(window.innerWidth < 586);
 
   useEffect(() => {
     if (data && data.equipos) {
@@ -15,15 +16,22 @@ function Clasificacion() {
   }, []);
 
   useEffect(() => {
-    const redimension = () => setPantallaPequeña(window.innerWidth < 850);
+    const redimension = () => {
+      setPantallaPequeña(window.innerWidth < 850);
+      setPantallaPequeñaTitulo(window.innerWidth < 586);
+    };
+    
     window.addEventListener('resize', redimension);
-    return () => window.removeEventListener('resize', redimension);
+
+    return () => {
+      window.removeEventListener('resize', redimension);
+    };
   }, []);
 
   return (
     <div className="container-clasificacion">
       <div className="logo-container-clasificacion">
-        {!pantallaPequeña ? (
+        {!pantallaPequeñaTitulo ? (
           <h1>Clasificación LaLiga 23/24</h1>
         ) : (
           <div>
