@@ -20,9 +20,7 @@ function Clasificacion() {
       setPantallaPequeña(window.innerWidth < 850);
       setPantallaPequeñaTitulo(window.innerWidth < 586);
     };
-    
     window.addEventListener('resize', redimension);
-
     return () => {
       window.removeEventListener('resize', redimension);
     };

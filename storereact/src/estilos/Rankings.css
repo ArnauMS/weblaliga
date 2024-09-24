@@ -3,7 +3,7 @@
   flex-direction: column;
   align-items: center;
   width: 100%;
-  margin-top: 20px;
+  margin-top: 90px;
 }
   
 .tabla {
@@ -44,7 +44,7 @@
   width: 60px;
   height: 60px;
   object-fit: contain;
-  margin-right: 5px;
+  margin-right: 10px;
 }
   
 .tabla-goleadores, .tabla-asistentes {
@@ -74,6 +74,7 @@ button:hover {
 .div-jugador, .div-equipo {
   display: flex;
   align-items: center;
+  text-align: left;
   justify-content: flex-start;
   padding: 5px 0px;
   text-decoration: none;
@@ -115,6 +116,12 @@ button:hover {
 
 @media (max-width: 500px) {
   .columna {
-    width: 60px;
+    width: 62px;
+  }
+}
+
+@media (max-width: 380px) {
+  .columna {
+    width: 80px;
   }
 }

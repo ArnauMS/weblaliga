@@ -9,6 +9,7 @@ function Rankings() {
     const [showMoreGoleadores, setShowMoreGoleadores] = useState(false);
     const [showMoreAsistentes, setShowMoreAsistentes] = useState(false);
     const [pantallaPequeña, setPantallaPequeña] = useState(window.innerWidth < 700);
+    const [pantallaPequeñaEquipo, setPantallaPequeñaEquipo] = useState(window.innerWidth < 380);
   
     useEffect(() => {
       if (data && data.goleadores) {
@@ -23,7 +24,10 @@ function Rankings() {
     }, []);
 
     useEffect(() => {
-      const redimension = () => setPantallaPequeña(window.innerWidth < 700);
+      const redimension = () => {
+        setPantallaPequeña(window.innerWidth < 700);
+        setPantallaPequeñaEquipo(window.innerWidth < 380);
+      };
       window.addEventListener('resize', redimension);
       return () => window.removeEventListener('resize', redimension);
     }, []);
@@ -39,7 +43,9 @@ function Rankings() {
           <thead>
             <tr>
               <th>Jugador</th>
-              <th className='columna'>Equipo</th>
+              {!pantallaPequeñaEquipo && (
+                <th className='columna'>Equipo</th>
+              )}
               <th className='columna'>Goles</th>
             </tr>
           </thead>
@@ -52,12 +58,14 @@ function Rankings() {
                       {jugador.nombre}
                   </div>                  
                 </td>
-                <td className='columna'>
-                  <Link key={jugador.equipo} to={`/equipo/${jugador.equipo}`} className='div-equipo'>
-                    <img src={jugador.escudo} alt={jugador.equipo} className="jugador-escudo" />
-                    {pantallaPequeña ? jugador.abreviatura : jugador.equipo}
-                  </Link>                  
-                </td>
+                {!pantallaPequeñaEquipo && (
+                  <td className='columna'>
+                    <Link key={jugador.equipo} to={`/equipo/${jugador.equipo}`} className='div-equipo'>
+                      <img src={jugador.escudo} alt={jugador.equipo} className="jugador-escudo" />
+                      {pantallaPequeña ? jugador.abreviatura : jugador.equipo}
+                    </Link>                  
+                  </td>
+                )}
                 <td className='columna'><b>{jugador.goles}</b></td>
               </tr>
             ))}
@@ -73,7 +81,9 @@ function Rankings() {
           <thead>
             <tr>
               <th>Jugador</th>
-              <th className='columna'>Equipo</th>
+              {!pantallaPequeñaEquipo && (
+                <th className='columna'>Equipo</th>
+              )}
               <th className='columna'>Asistencias</th>
             </tr>
           </thead>
@@ -86,12 +96,14 @@ function Rankings() {
                       {jugador.nombre}
                   </div>                  
                 </td>
-                <td className='columna'>
-                  <Link key={jugador.equipo} to={`/equipo/${jugador.equipo}`} className='div-equipo'>
-                    <img src={jugador.escudo} alt={jugador.equipo} className="jugador-escudo" />
-                    {pantallaPequeña ? jugador.abreviatura : jugador.equipo}
-                  </Link>                  
-                </td>
+                {!pantallaPequeñaEquipo && (
+                  <td className='columna'>
+                    <Link key={jugador.equipo} to={`/equipo/${jugador.equipo}`} className='div-equipo'>
+                      <img src={jugador.escudo} alt={jugador.equipo} className="jugador-escudo" />
+                      {pantallaPequeña ? jugador.abreviatura : jugador.equipo}
+                    </Link>                  
+                  </td>
+                )}
                 <td className='columna'><b>{jugador.asistencias}</b></td>
               </tr>
             ))}
